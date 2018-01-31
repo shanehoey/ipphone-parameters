@@ -1,0 +1,28 @@
+﻿---
+description: lync/sign_in/online/org_id_adal/sha_proof_auth_uri
+search: false
+---
+
+# lync/sign_in/online/org_id_adal/sha_proof_auth_uri
+
+#### lync/sign_in/online/org_id_adal/sha_proof_auth_uri
+
+lync/sign_in/online/org_id_adal/sha_proof_auth_uri
+
+
+| This parameter is currently investigating what this parameter does. Please refer to Audiocodes wesite for details on this parameter | 
+| :--- |
+
+## Syntax
+| Parameter | Syntax |
+| :--- | :--- |
+|lync/sign_in/online/org_id_adal/sha_proof_auth_uri | {% raw %} undefined {% endraw %}|
+
+## Devices
+This parameter is available on the following devices
+
+| Device | Latest Firmware | Default Value |
+|:---|:---|:---|
+| audc450HD | ;UC_3.0.4.111.77 | lync/sign_in/online/org_id_adal/sha_proof_auth_uri=NULL 
+
+ADD A DISCLAIMER

@@ -10,7 +10,7 @@ search: false
 Configure the Web & Telnet Username Username
 
 
-| unknown | 
+| This parameter is currently investigating what this parameter does. Please refer to Audiocodes wesite for details on this parameter | 
 | :--- |
 
 ## Syntax
@@ -22,8 +22,16 @@ Configure the Web & Telnet Username Username
 |Device|Parameter|value|Description|
 |:---|:---|:---|:---|
 |  | system/web_user_access_list | user (default) | The Phone username |
+|  | system/web_user_access_list | user (default) | The Phone username |
 
 ## Examples
+#### Configure Username
+
+Configure username
+
+```
+system/web_user_access_list=user
+```
 #### Configure Username
 
 Configure username

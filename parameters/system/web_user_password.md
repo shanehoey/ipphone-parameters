@@ -11,7 +11,7 @@ search:
     Configure the Phone Password (must be Encrypted) on the Web, Telnet, and Phone GUI Interface
 
 
-| unknown | 
+| This parameter is currently investigating what this parameter does. Please refer to Audiocodes wesite for details on this parameter | 
 | :--- |
 
 ## Syntax
@@ -23,8 +23,14 @@ search:
 |Device|Parameter|value|Description|
 |:---|:---|:---|:---|
 |  | system/web_user_password | Encrypted String | undefined |
+|  | system/web_user_password | Encrypted String | undefined |
 
 ## Examples
+#### Configure the Phone Password
+
+```
+system/web_user_password=EncryptedString
+```
 #### Configure the Phone Password
 
 ```

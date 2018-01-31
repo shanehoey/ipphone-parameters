@@ -23,8 +23,15 @@ Configure telnet access for management
 |:---|:---|:---|:---|
 |  | management/telnet/enabled | 0 | Disable Telnet access |
 |  | management/telnet/enabled | 1 | Enable Telnet access |
+|  | management/telnet/enabled | 0 | Disable Telnet access |
+|  | management/telnet/enabled | 1 | Enable Telnet access |
 
 ## Examples
+#### Enable Telnet
+
+```
+management/telnet/enabled=1
+```
 #### Enable Telnet
 
 ```

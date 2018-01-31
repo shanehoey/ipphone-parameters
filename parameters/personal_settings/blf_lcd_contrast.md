@@ -23,8 +23,14 @@ Configure contrast on a BLF Screen
 |Device|Parameter|value|Description|
 |:---|:---|:---|:---|
 |  | personal_settings/blf_lcd_contrast | Integer | Range 0-39 Default 16 |
+|  | personal_settings/blf_lcd_contrast | Integer | Range 0-39 Default 16 |
 
 ## Examples
+#### Configure contrast on a BLF Screen
+
+```
+personal_settings/blf_lcd_contrast=16
+```
 #### Configure contrast on a BLF Screen
 
 ```

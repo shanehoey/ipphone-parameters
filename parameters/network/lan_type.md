@@ -24,6 +24,8 @@ Configure Static or DHCP method
 |:---|:---|:---|:---|
 |  | network/lan_type | DHCP | (default) Configure DHCP IP Address |
 |  | network/lan_type | STATIC |  Configure STATIC IP Address |
+|  | network/lan_type | DHCP | (default) Configure DHCP IP Address |
+|  | network/lan_type | STATIC |  Configure STATIC IP Address |
 
 ## Devices
 This parameter is available on the following devices

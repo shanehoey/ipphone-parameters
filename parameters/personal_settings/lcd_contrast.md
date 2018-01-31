@@ -23,8 +23,16 @@ Configure the LCD Contrast
 | 420HD | personal_settings/lcd_contrast | 0-30 | Configure the LCD Contrast |
 | 430HD | personal_settings/lcd_contrast | 0-35 (default) | Configure the LCD Contrast |
 | 440HD | personal_settings/lcd_contrast | 0-35 (default) | Configure the LCD Contrast |
+| 420HD | personal_settings/lcd_contrast | 0-30 | Configure the LCD Contrast |
+| 430HD | personal_settings/lcd_contrast | 0-35 (default) | Configure the LCD Contrast |
+| 440HD | personal_settings/lcd_contrast | 0-35 (default) | Configure the LCD Contrast |
 
 ## Examples
+#### Configure the LCD Contrast
+
+```
+personal_settings/lcd_contrast=15
+```
 #### Configure the LCD Contrast
 
 ```

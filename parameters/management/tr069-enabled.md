@@ -23,6 +23,8 @@ Configure device to send info to ACS
 |:---|:---|:---|:---|
 |  | management/tr069/enabled | 1 (default) | Enable ACS |
 |  | management/tr069/enabled | 0 | Disable ACS |
+|  | management/tr069/enabled | 1 (default) | Enable ACS |
+|  | management/tr069/enabled | 0 | Disable ACS |
 
 ## Devices
 This parameter is available on the following devices

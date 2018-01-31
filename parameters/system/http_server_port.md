@@ -23,6 +23,7 @@ search:
 |Device|Parameter|value|Description|
 |:---|:---|:---|:---|
 |  | system/http_server_port | 80 (default) | 0-65535 |
+|  | system/http_server_port | 80 (default) | 0-65535 |
 
 ## Devices
 This parameter is available on the following devices

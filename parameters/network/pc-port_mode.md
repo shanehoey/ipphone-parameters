@@ -32,8 +32,18 @@ Configure the PC Port Speed,
 |  | network/pc/port_mode | FULL_100 | Configure to 100mb Full Duplex |
 |  | network/pc/port_mode | HALF_10 | Configure to 10mb Half Duplex |
 |  | network/pc/port_mode | HALF_100 | Configure to 100mb Half Duplex |
+|  | network/pc/port_mode | AUTOMATIC (default) | Configure to Auto Negotiation |
+|  | network/pc/port_mode | FULL_10 | Configure to 10mb Full Duplex |
+|  | network/pc/port_mode | FULL_100 | Configure to 100mb Full Duplex |
+|  | network/pc/port_mode | HALF_10 | Configure to 10mb Half Duplex |
+|  | network/pc/port_mode | HALF_100 | Configure to 100mb Half Duplex |
 
 ## Examples
+#### Configure to 100mb
+
+```
+network/pc/port_mode=FULL_100
+```
 #### Configure to 100mb
 
 ```

@@ -23,6 +23,9 @@ search:
 |  | provisioning/method | Dynamic (default) | Provisioning via HCP Option 160, 66 or 67 |
 |  | provisioning/method | Disable | Disable Provisioning |
 |  | provisioning/method | Static | Use a static URL for provision |
+|  | provisioning/method | Dynamic (default) | Provisioning via HCP Option 160, 66 or 67 |
+|  | provisioning/method | Disable | Disable Provisioning |
+|  | provisioning/method | Static | Use a static URL for provision |
 
 ## Devices
 This parameter is available on the following devices

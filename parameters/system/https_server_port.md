@@ -23,6 +23,7 @@ search:
 |Device|Parameter|value|Description|
 |:---|:---|:---|:---|
 |  | system/https_server_port | 443 (default) | 0-65535 |
+|  | system/https_server_port | 443 (default) | 0-65535 |
 
 ## Devices
 This parameter is available on the following devices

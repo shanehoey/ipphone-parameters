@@ -23,8 +23,14 @@ search:
 |Device|Parameter|value|Description|
 |:---|:---|:---|:---|
 |  | system/web_user_name | string | The Phone username |
+|  | system/web_user_name | string | The Phone username |
 
 ## Examples
+#### Configure the Phone Username
+
+```
+system/web_user_name=user
+```
 #### Configure the Phone Username
 
 ```

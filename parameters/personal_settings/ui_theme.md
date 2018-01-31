@@ -24,8 +24,24 @@ Configure the UI theme on the IP Phone :
 |:---|:---|:---|:---|
 |  | personal_settings/ui_theme | MSFT_THEME | Configure theme to MSFT (Default) |
 |  | personal_settings/ui_theme | AUDC_THEME | Configure theme to AUDC theme |
+|  | personal_settings/ui_theme | MSFT_THEME | Configure theme to MSFT (Default) |
+|  | personal_settings/ui_theme | AUDC_THEME | Configure theme to AUDC theme |
 
 ## Examples
+#### Configure the theme
+
+Configure the theme to AUDC_THEME
+
+```
+personal_settings/ui_theme=AUDC_THEME
+```
+#### Configure the theme
+
+Configure the theme to MSFT_THEME
+
+```
+personal_settings/ui_theme=MSFT_THEME
+```
 #### Configure the theme
 
 Configure the theme to AUDC_THEME

@@ -32,8 +32,18 @@ Configure the Lan Port Speed,
 |  | network/lan/port_mode | FULL_100 | Configure to 100mb Full Duplex |
 |  | network/lan/port_mode | HALF_10 | Configure to 10mb Half Duplex |
 |  | network/lan/port_mode | HALF_100 | Configure to 100mb Half Duplex |
+|  | network/lan/port_mode | AUTOMATIC (default) | Configure to Auto Negotiation |
+|  | network/lan/port_mode | FULL_10 | Configure to 10mb Full Duplex |
+|  | network/lan/port_mode | FULL_100 | Configure to 100mb Full Duplex |
+|  | network/lan/port_mode | HALF_10 | Configure to 10mb Half Duplex |
+|  | network/lan/port_mode | HALF_100 | Configure to 100mb Half Duplex |
 
 ## Examples
+#### Configure to 100mb
+
+```
+network/lan/port_mode=FULL_100
+```
 #### Configure to 100mb
 
 ```

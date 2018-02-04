@@ -1,6 +1,7 @@
 ﻿---
 description: lync/BToE/pid
-search: false
+search:
+    keywords: ['lync','BToE','pid']
 ---
 
 # lync/BToE/pid
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | lync/BToE/pid=6410 
-| audc440HD | ;UC_3.0.1.322 | lync/BToE/pid=6410 
-| audc450HD | ;UC_3.0.4.111.77 | lync/BToE/pid=6410 
+| 405HD | ;UC_3.0.1.322 | lync/BToE/pid=6410 
+| 440HD | ;UC_3.0.1.322 | lync/BToE/pid=6410 
+| 450HD | ;UC_3.0.4.111.77 | lync/BToE/pid=6410 
 
 (view disclaimer)[disclaimer]

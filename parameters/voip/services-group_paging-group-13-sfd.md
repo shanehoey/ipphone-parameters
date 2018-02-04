@@ -1,6 +1,7 @@
 ﻿---
 description: voip/services/group_paging/group/13/sfd
-search: false
+search:
+    keywords: ['voip','services','group_paging','group','13','sfd']
 ---
 
 # voip/services/group_paging/group/13/sfd
@@ -35,6 +36,6 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc450HD | ;UC_3.0.4.111.77 | voip/services/group_paging/group/13/sfd=0 
+| 450HD | ;UC_3.0.4.111.77 | voip/services/group_paging/group/13/sfd=0 
 
 (view disclaimer)[disclaimer]

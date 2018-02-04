@@ -1,6 +1,7 @@
 ﻿---
 description: system/lock/5/enabled
-search: false
+search:
+    keywords: ['system','lock','5','enabled']
 ---
 
 # system/lock/5/enabled
@@ -35,6 +36,6 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc450HD | ;UC_3.0.4.111.77 | system/lock/5/enabled=0 
+| 450HD | ;UC_3.0.4.111.77 | system/lock/5/enabled=0 
 
 (view disclaimer)[disclaimer]

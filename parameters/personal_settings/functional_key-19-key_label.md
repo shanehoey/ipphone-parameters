@@ -1,6 +1,7 @@
 ﻿---
 description: personal_settings/functional_key/19/key_label
-search: false
+search:
+    keywords: ['personal_settings','functional_key','19','key_label']
 ---
 
 # personal_settings/functional_key/19/key_label
@@ -35,6 +36,6 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc450HD | ;UC_3.0.4.111.77 | personal_settings/functional_key/19/key_label= 
+| 450HD | ;UC_3.0.4.111.77 | personal_settings/functional_key/19/key_label= 
 
 (view disclaimer)[disclaimer]

@@ -1,6 +1,7 @@
 ﻿---
 description: personal_settings/functional_key/9/type
-search: false
+search:
+    keywords: ['personal_settings','functional_key','9','type']
 ---
 
 # personal_settings/functional_key/9/type
@@ -35,7 +36,7 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc440HD | ;UC_3.0.1.322 | personal_settings/functional_key/9/type=EMPTY 
-| audc450HD | ;UC_3.0.4.111.77 | personal_settings/functional_key/9/type=EMPTY 
+| 440HD | ;UC_3.0.1.322 | personal_settings/functional_key/9/type=EMPTY 
+| 450HD | ;UC_3.0.4.111.77 | personal_settings/functional_key/9/type=EMPTY 
 
 (view disclaimer)[disclaimer]

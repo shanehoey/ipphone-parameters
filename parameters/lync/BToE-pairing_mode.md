@@ -1,6 +1,7 @@
 ﻿---
 description: lync/BToE/pairing_mode
-search: false
+search:
+    keywords: ['lync','BToE','pairing_mode']
 ---
 
 # lync/BToE/pairing_mode
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | lync/BToE/pairing_mode=AUTOMATIC 
-| audc440HD | ;UC_3.0.1.322 | lync/BToE/pairing_mode=AUTOMATIC 
-| audc450HD | ;UC_3.0.4.111.77 | lync/BToE/pairing_mode=AUTOMATIC 
+| 405HD | ;UC_3.0.1.322 | lync/BToE/pairing_mode=AUTOMATIC 
+| 440HD | ;UC_3.0.1.322 | lync/BToE/pairing_mode=AUTOMATIC 
+| 450HD | ;UC_3.0.4.111.77 | lync/BToE/pairing_mode=AUTOMATIC 
 
 (view disclaimer)[disclaimer]

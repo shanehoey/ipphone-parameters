@@ -1,6 +1,7 @@
 ﻿---
 description: ems_server/provisioning/url
-search: false
+search:
+    keywords: ['ems_server','provisioning','url']
 ---
 
 # ems_server/provisioning/url
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | ems_server/provisioning/url= 
-| audc440HD | ;UC_3.0.1.322 | ems_server/provisioning/url= 
-| audc450HD | ;UC_3.0.4.111.77 | ems_server/provisioning/url= 
+| 405HD | ;UC_3.0.1.322 | ems_server/provisioning/url= 
+| 440HD | ;UC_3.0.1.322 | ems_server/provisioning/url= 
+| 450HD | ;UC_3.0.4.111.77 | ems_server/provisioning/url= 
 
 (view disclaimer)[disclaimer]

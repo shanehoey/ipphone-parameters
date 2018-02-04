@@ -1,6 +1,7 @@
 ﻿---
 description: system/syslog/component/web_server
-search: false
+search:
+    keywords: ['system','syslog','component','web_server']
 ---
 
 # system/syslog/component/web_server
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | system/syslog/component/web_server=NONE 
-| audc440HD | ;UC_3.0.1.322 | system/syslog/component/web_server=NONE 
-| audc450HD | ;UC_3.0.4.111.77 | system/syslog/component/web_server=NONE 
+| 405HD | ;UC_3.0.1.322 | system/syslog/component/web_server=NONE 
+| 440HD | ;UC_3.0.1.322 | system/syslog/component/web_server=NONE 
+| 450HD | ;UC_3.0.4.111.77 | system/syslog/component/web_server=NONE 
 
 (view disclaimer)[disclaimer]

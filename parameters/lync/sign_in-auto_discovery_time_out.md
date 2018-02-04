@@ -1,6 +1,7 @@
 ﻿---
 description: lync/sign_in/auto_discovery_time_out
-search: false
+search:
+    keywords: ['lync','sign_in','auto_discovery_time_out']
 ---
 
 # lync/sign_in/auto_discovery_time_out
@@ -35,6 +36,6 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc450HD | ;UC_3.0.4.111.77 | lync/sign_in/auto_discovery_time_out=30 
+| 450HD | ;UC_3.0.4.111.77 | lync/sign_in/auto_discovery_time_out=30 
 
 (view disclaimer)[disclaimer]

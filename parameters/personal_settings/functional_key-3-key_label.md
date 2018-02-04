@@ -1,6 +1,7 @@
 ﻿---
 description: personal_settings/functional_key/3/key_label
-search: false
+search:
+    keywords: ['personal_settings','functional_key','3','key_label']
 ---
 
 # personal_settings/functional_key/3/key_label
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | personal_settings/functional_key/3/key_label= 
-| audc440HD | ;UC_3.0.1.322 | personal_settings/functional_key/3/key_label= 
-| audc450HD | ;UC_3.0.4.111.77 | personal_settings/functional_key/3/key_label= 
+| 405HD | ;UC_3.0.1.322 | personal_settings/functional_key/3/key_label= 
+| 440HD | ;UC_3.0.1.322 | personal_settings/functional_key/3/key_label= 
+| 450HD | ;UC_3.0.4.111.77 | personal_settings/functional_key/3/key_label= 
 
 (view disclaimer)[disclaimer]

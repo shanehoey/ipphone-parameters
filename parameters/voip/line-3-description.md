@@ -1,6 +1,7 @@
 ﻿---
 description: voip/line/3/description
-search: false
+search:
+    keywords: ['voip','line','3','description']
 ---
 
 # voip/line/3/description
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | voip/line/3/description=405HD 
-| audc440HD | ;UC_3.0.1.322 | voip/line/3/description=440HD 
-| audc450HD | ;UC_3.0.4.111.77 | voip/line/3/description=450HD 
+| 405HD | ;UC_3.0.1.322 | voip/line/3/description=405HD 
+| 440HD | ;UC_3.0.1.322 | voip/line/3/description=440HD 
+| 450HD | ;UC_3.0.4.111.77 | voip/line/3/description=450HD 
 
 (view disclaimer)[disclaimer]

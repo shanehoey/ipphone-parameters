@@ -1,6 +1,7 @@
 ﻿---
 description: system/action_url/lock_status
-search: false
+search:
+    keywords: ['system','action_url','lock_status']
 ---
 
 # system/action_url/lock_status
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | system/action_url/lock_status= 
-| audc440HD | ;UC_3.0.1.322 | system/action_url/lock_status= 
-| audc450HD | ;UC_3.0.4.111.77 | system/action_url/lock_status= 
+| 405HD | ;UC_3.0.1.322 | system/action_url/lock_status= 
+| 440HD | ;UC_3.0.1.322 | system/action_url/lock_status= 
+| 450HD | ;UC_3.0.4.111.77 | system/action_url/lock_status= 
 
 (view disclaimer)[disclaimer]

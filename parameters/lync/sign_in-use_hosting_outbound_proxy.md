@@ -1,6 +1,7 @@
 ﻿---
 description: lync/sign_in/use_hosting_outbound_proxy
-search: false
+search:
+    keywords: ['lync','sign_in','use_hosting_outbound_proxy']
 ---
 
 # lync/sign_in/use_hosting_outbound_proxy
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | lync/sign_in/use_hosting_outbound_proxy=0 
-| audc440HD | ;UC_3.0.1.322 | lync/sign_in/use_hosting_outbound_proxy=0 
-| audc450HD | ;UC_3.0.4.111.77 | lync/sign_in/use_hosting_outbound_proxy=0 
+| 405HD | ;UC_3.0.1.322 | lync/sign_in/use_hosting_outbound_proxy=0 
+| 440HD | ;UC_3.0.1.322 | lync/sign_in/use_hosting_outbound_proxy=0 
+| 450HD | ;UC_3.0.4.111.77 | lync/sign_in/use_hosting_outbound_proxy=0 
 
 (view disclaimer)[disclaimer]

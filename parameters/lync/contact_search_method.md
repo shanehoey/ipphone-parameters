@@ -1,6 +1,7 @@
 ﻿---
 description: lync/contact_search_method
-search: false
+search:
+    keywords: ['lync','contact_search_method']
 ---
 
 # lync/contact_search_method
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | lync/contact_search_method=LYNC_CONTACT 
-| audc440HD | ;UC_3.0.1.322 | lync/contact_search_method=LYNC_CONTACT 
-| audc450HD | ;UC_3.0.4.111.77 | lync/contact_search_method=LYNC_CONTACT 
+| 405HD | ;UC_3.0.1.322 | lync/contact_search_method=LYNC_CONTACT 
+| 440HD | ;UC_3.0.1.322 | lync/contact_search_method=LYNC_CONTACT 
+| 450HD | ;UC_3.0.4.111.77 | lync/contact_search_method=LYNC_CONTACT 
 
 (view disclaimer)[disclaimer]

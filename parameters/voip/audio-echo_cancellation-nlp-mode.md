@@ -1,6 +1,7 @@
 ﻿---
 description: voip/audio/echo_cancellation/nlp/mode
-search: false
+search:
+    keywords: ['voip','audio','echo_cancellation','nlp','mode']
 ---
 
 # voip/audio/echo_cancellation/nlp/mode
@@ -35,6 +36,6 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc450HD | ;UC_3.0.4.111.77 | voip/audio/echo_cancellation/nlp/mode=ECHO_CANCELER_NON_LINEAR_PROCESSOR_MODE__MEDIUM_SENSITIVITY 
+| 450HD | ;UC_3.0.4.111.77 | voip/audio/echo_cancellation/nlp/mode=ECHO_CANCELER_NON_LINEAR_PROCESSOR_MODE__MEDIUM_SENSITIVITY 
 
 (view disclaimer)[disclaimer]

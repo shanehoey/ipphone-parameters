@@ -1,6 +1,7 @@
 ﻿---
 description: personal_settings/blf_lcd_contrast
-search: false
+search:
+    keywords: ['personal_settings','blf_lcd_contrast']
 ---
 
 # personal_settings/blf_lcd_contrast
@@ -35,6 +36,6 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc440HD | ;UC_3.0.1.322 | personal_settings/blf_lcd_contrast=140 
+| 440HD | ;UC_3.0.1.322 | personal_settings/blf_lcd_contrast=140 
 
 (view disclaimer)[disclaimer]

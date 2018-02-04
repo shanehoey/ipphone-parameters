@@ -1,6 +1,7 @@
 ﻿---
 description: voip/codec/codec_info/3/name
-search: false
+search:
+    keywords: ['voip','codec','codec_info','3','name']
 ---
 
 # voip/codec/codec_info/3/name
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | voip/codec/codec_info/3/name=PCMU 
-| audc440HD | ;UC_3.0.1.322 | voip/codec/codec_info/3/name=PCMU 
-| audc450HD | ;UC_3.0.4.111.77 | voip/codec/codec_info/3/name=PCMU 
+| 405HD | ;UC_3.0.1.322 | voip/codec/codec_info/3/name=PCMU 
+| 440HD | ;UC_3.0.1.322 | voip/codec/codec_info/3/name=PCMU 
+| 450HD | ;UC_3.0.4.111.77 | voip/codec/codec_info/3/name=PCMU 
 
 (view disclaimer)[disclaimer]

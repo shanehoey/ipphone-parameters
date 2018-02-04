@@ -1,6 +1,7 @@
 ﻿---
 description: voip/audio/echo_cancellation/nlp/speaker/mode
-search: false
+search:
+    keywords: ['voip','audio','echo_cancellation','nlp','speaker','mode']
 ---
 
 # voip/audio/echo_cancellation/nlp/speaker/mode
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | voip/audio/echo_cancellation/nlp/speaker/mode=ECHO_CANCELER_NON_LINEAR_PROCESSOR_MODE__HIGH_SENSITIVITY 
-| audc440HD | ;UC_3.0.1.322 | voip/audio/echo_cancellation/nlp/speaker/mode=ECHO_CANCELER_NON_LINEAR_PROCESSOR_MODE__HIGH_SENSITIVITY 
-| audc450HD | ;UC_3.0.4.111.77 | voip/audio/echo_cancellation/nlp/speaker/mode=ECHO_CANCELER_NON_LINEAR_PROCESSOR_MODE__HIGH_SENSITIVITY 
+| 405HD | ;UC_3.0.1.322 | voip/audio/echo_cancellation/nlp/speaker/mode=ECHO_CANCELER_NON_LINEAR_PROCESSOR_MODE__HIGH_SENSITIVITY 
+| 440HD | ;UC_3.0.1.322 | voip/audio/echo_cancellation/nlp/speaker/mode=ECHO_CANCELER_NON_LINEAR_PROCESSOR_MODE__HIGH_SENSITIVITY 
+| 450HD | ;UC_3.0.4.111.77 | voip/audio/echo_cancellation/nlp/speaker/mode=ECHO_CANCELER_NON_LINEAR_PROCESSOR_MODE__HIGH_SENSITIVITY 
 
 (view disclaimer)[disclaimer]

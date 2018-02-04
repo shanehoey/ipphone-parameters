@@ -1,6 +1,7 @@
 ﻿---
 description: provisioning/ring_tone_uri
-search: false
+search:
+    keywords: ['provisioning','ring_tone_uri']
 ---
 
 # provisioning/ring_tone_uri
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | provisioning/ring_tone_uri= 
-| audc440HD | ;UC_3.0.1.322 | provisioning/ring_tone_uri= 
-| audc450HD | ;UC_3.0.4.111.77 | provisioning/ring_tone_uri= 
+| 405HD | ;UC_3.0.1.322 | provisioning/ring_tone_uri= 
+| 440HD | ;UC_3.0.1.322 | provisioning/ring_tone_uri= 
+| 450HD | ;UC_3.0.4.111.77 | provisioning/ring_tone_uri= 
 
 (view disclaimer)[disclaimer]

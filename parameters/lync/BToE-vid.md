@@ -1,6 +1,7 @@
 ﻿---
 description: lync/BToE/vid
-search: false
+search:
+    keywords: ['lync','BToE','vid']
 ---
 
 # lync/BToE/vid
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | lync/BToE/vid=1106 
-| audc440HD | ;UC_3.0.1.322 | lync/BToE/vid=1106 
-| audc450HD | ;UC_3.0.4.111.77 | lync/BToE/vid=1106 
+| 405HD | ;UC_3.0.1.322 | lync/BToE/vid=1106 
+| 440HD | ;UC_3.0.1.322 | lync/BToE/vid=1106 
+| 450HD | ;UC_3.0.4.111.77 | lync/BToE/vid=1106 
 
 (view disclaimer)[disclaimer]

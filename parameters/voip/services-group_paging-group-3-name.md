@@ -1,6 +1,7 @@
 ﻿---
 description: voip/services/group_paging/group/3/name
-search: false
+search:
+    keywords: ['voip','services','group_paging','group','3','name']
 ---
 
 # voip/services/group_paging/group/3/name
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | voip/services/group_paging/group/3/name= 
-| audc440HD | ;UC_3.0.1.322 | voip/services/group_paging/group/3/name= 
-| audc450HD | ;UC_3.0.4.111.77 | voip/services/group_paging/group/3/name= 
+| 405HD | ;UC_3.0.1.322 | voip/services/group_paging/group/3/name= 
+| 440HD | ;UC_3.0.1.322 | voip/services/group_paging/group/3/name= 
+| 450HD | ;UC_3.0.4.111.77 | voip/services/group_paging/group/3/name= 
 
 (view disclaimer)[disclaimer]

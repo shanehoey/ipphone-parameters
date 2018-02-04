@@ -1,6 +1,7 @@
 ﻿---
 description: lync/callLog/background_sync_time/seconds
-search: false
+search:
+    keywords: ['lync','callLog','background_sync_time','seconds']
 ---
 
 # lync/callLog/background_sync_time/seconds
@@ -35,6 +36,6 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc450HD | ;UC_3.0.4.111.77 | lync/callLog/background_sync_time/seconds=600 
+| 450HD | ;UC_3.0.4.111.77 | lync/callLog/background_sync_time/seconds=600 
 
 (view disclaimer)[disclaimer]

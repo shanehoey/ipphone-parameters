@@ -1,6 +1,7 @@
 ﻿---
 description: voip/media/rtp_mute_on_hold
-search: false
+search:
+    keywords: ['voip','media','rtp_mute_on_hold']
 ---
 
 # voip/media/rtp_mute_on_hold
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | voip/media/rtp_mute_on_hold=1 
-| audc440HD | ;UC_3.0.1.322 | voip/media/rtp_mute_on_hold=1 
-| audc450HD | ;UC_3.0.4.111.77 | voip/media/rtp_mute_on_hold=1 
+| 405HD | ;UC_3.0.1.322 | voip/media/rtp_mute_on_hold=1 
+| 440HD | ;UC_3.0.1.322 | voip/media/rtp_mute_on_hold=1 
+| 450HD | ;UC_3.0.4.111.77 | voip/media/rtp_mute_on_hold=1 
 
 (view disclaimer)[disclaimer]

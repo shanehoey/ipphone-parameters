@@ -1,6 +1,7 @@
 ﻿---
 description: personal_settings/functional_key/8/key_event
-search: false
+search:
+    keywords: ['personal_settings','functional_key','8','key_event']
 ---
 
 # personal_settings/functional_key/8/key_event
@@ -35,6 +36,6 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc450HD | ;UC_3.0.4.111.77 | personal_settings/functional_key/8/key_event=CALENDAR 
+| 450HD | ;UC_3.0.4.111.77 | personal_settings/functional_key/8/key_event=CALENDAR 
 
 (view disclaimer)[disclaimer]

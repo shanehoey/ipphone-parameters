@@ -1,6 +1,7 @@
 ﻿---
 description: voip/answer_device
-search: false
+search:
+    keywords: ['voip','answer_device']
 ---
 
 # voip/answer_device
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | voip/answer_device=SPEAKER 
-| audc440HD | ;UC_3.0.1.322 | voip/answer_device=SPEAKER 
-| audc450HD | ;UC_3.0.4.111.77 | voip/answer_device=SPEAKER 
+| 405HD | ;UC_3.0.1.322 | voip/answer_device=SPEAKER 
+| 440HD | ;UC_3.0.1.322 | voip/answer_device=SPEAKER 
+| 450HD | ;UC_3.0.4.111.77 | voip/answer_device=SPEAKER 
 
 (view disclaimer)[disclaimer]

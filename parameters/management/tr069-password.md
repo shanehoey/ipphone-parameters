@@ -1,6 +1,7 @@
 ﻿---
 description: management/tr069/password
-search: false
+search:
+    keywords: ['management','tr069','password']
 ---
 
 # management/tr069/password
@@ -35,7 +36,7 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | management/tr069/password= 
-| audc440HD | ;UC_3.0.1.322 | management/tr069/password= 
+| 405HD | ;UC_3.0.1.322 | management/tr069/password= 
+| 440HD | ;UC_3.0.1.322 | management/tr069/password= 
 
 (view disclaimer)[disclaimer]

@@ -1,6 +1,7 @@
 ﻿---
 description: voip/regional_settings/call_progress_tones/3/frequency_a
-search: false
+search:
+    keywords: ['voip','regional_settings','call_progress_tones','3','frequency_a']
 ---
 
 # voip/regional_settings/call_progress_tones/3/frequency_a
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | voip/regional_settings/call_progress_tones/3/frequency_a=480 
-| audc440HD | ;UC_3.0.1.322 | voip/regional_settings/call_progress_tones/3/frequency_a=480 
-| audc450HD | ;UC_3.0.4.111.77 | voip/regional_settings/call_progress_tones/3/frequency_a=480 
+| 405HD | ;UC_3.0.1.322 | voip/regional_settings/call_progress_tones/3/frequency_a=480 
+| 440HD | ;UC_3.0.1.322 | voip/regional_settings/call_progress_tones/3/frequency_a=480 
+| 450HD | ;UC_3.0.4.111.77 | voip/regional_settings/call_progress_tones/3/frequency_a=480 
 
 (view disclaimer)[disclaimer]

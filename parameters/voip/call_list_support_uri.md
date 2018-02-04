@@ -1,6 +1,7 @@
 ﻿---
 description: voip/call_list_support_uri
-search: false
+search:
+    keywords: ['voip','call_list_support_uri']
 ---
 
 # voip/call_list_support_uri
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | voip/call_list_support_uri=1 
-| audc440HD | ;UC_3.0.1.322 | voip/call_list_support_uri=1 
-| audc450HD | ;UC_3.0.4.111.77 | voip/call_list_support_uri=1 
+| 405HD | ;UC_3.0.1.322 | voip/call_list_support_uri=1 
+| 440HD | ;UC_3.0.1.322 | voip/call_list_support_uri=1 
+| 450HD | ;UC_3.0.4.111.77 | voip/call_list_support_uri=1 
 
 (view disclaimer)[disclaimer]

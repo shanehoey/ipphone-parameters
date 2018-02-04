@@ -1,6 +1,7 @@
 ﻿---
 description: provisioning/firmware/url
-search: false
+search:
+    keywords: ['provisioning','firmware','url']
 ---
 
 # provisioning/firmware/url
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | provisioning/firmware/url= 
-| audc440HD | ;UC_3.0.1.322 | provisioning/firmware/url= 
-| audc450HD | ;UC_3.0.4.111.77 | provisioning/firmware/url= 
+| 405HD | ;UC_3.0.1.322 | provisioning/firmware/url= 
+| 440HD | ;UC_3.0.1.322 | provisioning/firmware/url= 
+| 450HD | ;UC_3.0.4.111.77 | provisioning/firmware/url= 
 
 (view disclaimer)[disclaimer]

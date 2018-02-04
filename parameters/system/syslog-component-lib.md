@@ -1,6 +1,7 @@
 ﻿---
 description: system/syslog/component/lib
-search: false
+search:
+    keywords: ['system','syslog','component','lib']
 ---
 
 # system/syslog/component/lib
@@ -35,6 +36,6 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc450HD | ;UC_3.0.4.111.77 | system/syslog/component/lib=NONE 
+| 450HD | ;UC_3.0.4.111.77 | system/syslog/component/lib=NONE 
 
 (view disclaimer)[disclaimer]

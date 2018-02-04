@@ -1,6 +1,7 @@
 ﻿---
 description: lync/ews/OutlookContactReply
-search: false
+search:
+    keywords: ['lync','ews','OutlookContactReply']
 ---
 
 # lync/ews/OutlookContactReply
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | lync/ews/OutlookContactReply=50 
-| audc440HD | ;UC_3.0.1.322 | lync/ews/OutlookContactReply=50 
-| audc450HD | ;UC_3.0.4.111.77 | lync/ews/OutlookContactReply=50 
+| 405HD | ;UC_3.0.1.322 | lync/ews/OutlookContactReply=50 
+| 440HD | ;UC_3.0.1.322 | lync/ews/OutlookContactReply=50 
+| 450HD | ;UC_3.0.4.111.77 | lync/ews/OutlookContactReply=50 
 
 (view disclaimer)[disclaimer]

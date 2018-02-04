@@ -1,6 +1,7 @@
 ﻿---
 description: system/logs_server/address
-search: false
+search:
+    keywords: ['system','logs_server','address']
 ---
 
 # system/logs_server/address
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | system/logs_server/address= 
-| audc440HD | ;UC_3.0.1.322 | system/logs_server/address= 
-| audc450HD | ;UC_3.0.4.111.77 | system/logs_server/address= 
+| 405HD | ;UC_3.0.1.322 | system/logs_server/address= 
+| 440HD | ;UC_3.0.1.322 | system/logs_server/address= 
+| 450HD | ;UC_3.0.4.111.77 | system/logs_server/address= 
 
 (view disclaimer)[disclaimer]

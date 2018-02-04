@@ -1,6 +1,7 @@
 ﻿---
 description: lync/sign_in/web_sign_in/get_pin_auth_url
-search: false
+search:
+    keywords: ['lync','sign_in','web_sign_in','get_pin_auth_url']
 ---
 
 # lync/sign_in/web_sign_in/get_pin_auth_url
@@ -35,6 +36,6 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc450HD | ;UC_3.0.4.111.77 | lync/sign_in/web_sign_in/get_pin_auth_url= 
+| 450HD | ;UC_3.0.4.111.77 | lync/sign_in/web_sign_in/get_pin_auth_url= 
 
 (view disclaimer)[disclaimer]

@@ -1,6 +1,7 @@
 ﻿---
 description: voip/media/broken_connection_detection
-search: false
+search:
+    keywords: ['voip','media','broken_connection_detection']
 ---
 
 # voip/media/broken_connection_detection
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | voip/media/broken_connection_detection=1 
-| audc440HD | ;UC_3.0.1.322 | voip/media/broken_connection_detection=1 
-| audc450HD | ;UC_3.0.4.111.77 | voip/media/broken_connection_detection=1 
+| 405HD | ;UC_3.0.1.322 | voip/media/broken_connection_detection=1 
+| 440HD | ;UC_3.0.1.322 | voip/media/broken_connection_detection=1 
+| 450HD | ;UC_3.0.4.111.77 | voip/media/broken_connection_detection=1 
 
 (view disclaimer)[disclaimer]

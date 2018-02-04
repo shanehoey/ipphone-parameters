@@ -1,6 +1,7 @@
 ﻿---
 description: voip/signalling/sip/tos
-search: false
+search:
+    keywords: ['voip','signalling','sip','tos']
 ---
 
 # voip/signalling/sip/tos
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | voip/signalling/sip/tos=160 
-| audc440HD | ;UC_3.0.1.322 | voip/signalling/sip/tos=160 
-| audc450HD | ;UC_3.0.4.111.77 | voip/signalling/sip/tos=96 
+| 405HD | ;UC_3.0.1.322 | voip/signalling/sip/tos=160 
+| 440HD | ;UC_3.0.1.322 | voip/signalling/sip/tos=160 
+| 450HD | ;UC_3.0.4.111.77 | voip/signalling/sip/tos=96 
 
 (view disclaimer)[disclaimer]

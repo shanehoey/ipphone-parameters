@@ -1,6 +1,7 @@
 ﻿---
 description: system/daylight_saving/start_date/hour
-search: false
+search:
+    keywords: ['system','daylight_saving','start_date','hour']
 ---
 
 # system/daylight_saving/start_date/hour
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | system/daylight_saving/start_date/hour=2 
-| audc440HD | ;UC_3.0.1.322 | system/daylight_saving/start_date/hour=2 
-| audc450HD | ;UC_3.0.4.111.77 | system/daylight_saving/start_date/hour=2 
+| 405HD | ;UC_3.0.1.322 | system/daylight_saving/start_date/hour=2 
+| 440HD | ;UC_3.0.1.322 | system/daylight_saving/start_date/hour=2 
+| 450HD | ;UC_3.0.4.111.77 | system/daylight_saving/start_date/hour=2 
 
 (view disclaimer)[disclaimer]

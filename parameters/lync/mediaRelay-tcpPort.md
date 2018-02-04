@@ -1,6 +1,7 @@
 ﻿---
 description: lync/mediaRelay/tcpPort
-search: false
+search:
+    keywords: ['lync','mediaRelay','tcpPort']
 ---
 
 # lync/mediaRelay/tcpPort
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | lync/mediaRelay/tcpPort=443 
-| audc440HD | ;UC_3.0.1.322 | lync/mediaRelay/tcpPort=443 
-| audc450HD | ;UC_3.0.4.111.77 | lync/mediaRelay/tcpPort=443 
+| 405HD | ;UC_3.0.1.322 | lync/mediaRelay/tcpPort=443 
+| 440HD | ;UC_3.0.1.322 | lync/mediaRelay/tcpPort=443 
+| 450HD | ;UC_3.0.4.111.77 | lync/mediaRelay/tcpPort=443 
 
 (view disclaimer)[disclaimer]

@@ -1,6 +1,7 @@
 ﻿---
 description: voip/services/call_pickup/access_code
-search: false
+search:
+    keywords: ['voip','services','call_pickup','access_code']
 ---
 
 # voip/services/call_pickup/access_code
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | voip/services/call_pickup/access_code=** 
-| audc440HD | ;UC_3.0.1.322 | voip/services/call_pickup/access_code=** 
-| audc450HD | ;UC_3.0.4.111.77 | voip/services/call_pickup/access_code=** 
+| 405HD | ;UC_3.0.1.322 | voip/services/call_pickup/access_code=** 
+| 440HD | ;UC_3.0.1.322 | voip/services/call_pickup/access_code=** 
+| 450HD | ;UC_3.0.4.111.77 | voip/services/call_pickup/access_code=** 
 
 (view disclaimer)[disclaimer]

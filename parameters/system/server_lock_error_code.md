@@ -1,6 +1,7 @@
 ﻿---
 description: system/server_lock_error_code
-search: false
+search:
+    keywords: ['system','server_lock_error_code']
 ---
 
 # system/server_lock_error_code
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | system/server_lock_error_code=400 
-| audc440HD | ;UC_3.0.1.322 | system/server_lock_error_code=400 
-| audc450HD | ;UC_3.0.4.111.77 | system/server_lock_error_code=400 
+| 405HD | ;UC_3.0.1.322 | system/server_lock_error_code=400 
+| 440HD | ;UC_3.0.1.322 | system/server_lock_error_code=400 
+| 450HD | ;UC_3.0.4.111.77 | system/server_lock_error_code=400 
 
 (view disclaimer)[disclaimer]

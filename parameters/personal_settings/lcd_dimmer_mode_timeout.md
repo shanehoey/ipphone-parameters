@@ -1,6 +1,7 @@
 ﻿---
 description: personal_settings/lcd_dimmer_mode_timeout
-search: false
+search:
+    keywords: ['personal_settings','lcd_dimmer_mode_timeout']
 ---
 
 # personal_settings/lcd_dimmer_mode_timeout
@@ -35,6 +36,6 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc450HD | ;UC_3.0.4.111.77 | personal_settings/lcd_dimmer_mode_timeout=60MIN 
+| 450HD | ;UC_3.0.4.111.77 | personal_settings/lcd_dimmer_mode_timeout=60MIN 
 
 (view disclaimer)[disclaimer]

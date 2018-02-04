@@ -1,6 +1,7 @@
 ﻿---
 description: system/http_server_port
-search: false
+search:
+    keywords: ['system','http_server_port']
 ---
 
 # system/http_server_port
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | system/http_server_port=80 
-| audc440HD | ;UC_3.0.1.322 | system/http_server_port=80 
-| audc450HD | ;UC_3.0.4.111.77 | system/http_server_port=80 
+| 405HD | ;UC_3.0.1.322 | system/http_server_port=80 
+| 440HD | ;UC_3.0.1.322 | system/http_server_port=80 
+| 450HD | ;UC_3.0.4.111.77 | system/http_server_port=80 
 
 (view disclaimer)[disclaimer]

@@ -1,6 +1,7 @@
 ﻿---
 description: system/enable_key_configuration
-search: false
+search:
+    keywords: ['system','enable_key_configuration']
 ---
 
 # system/enable_key_configuration
@@ -35,6 +36,6 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc450HD | ;UC_3.0.4.111.77 | system/enable_key_configuration=1 
+| 450HD | ;UC_3.0.4.111.77 | system/enable_key_configuration=1 
 
 (view disclaimer)[disclaimer]

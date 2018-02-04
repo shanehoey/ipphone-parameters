@@ -1,6 +1,7 @@
 ﻿---
 description: ems_server/keep_alive_period
-search: false
+search:
+    keywords: ['ems_server','keep_alive_period']
 ---
 
 # ems_server/keep_alive_period
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | ems_server/keep_alive_period=60 
-| audc440HD | ;UC_3.0.1.322 | ems_server/keep_alive_period=60 
-| audc450HD | ;UC_3.0.4.111.77 | ems_server/keep_alive_period=60 
+| 405HD | ;UC_3.0.1.322 | ems_server/keep_alive_period=60 
+| 440HD | ;UC_3.0.1.322 | ems_server/keep_alive_period=60 
+| 450HD | ;UC_3.0.4.111.77 | ems_server/keep_alive_period=60 
 
 (view disclaimer)[disclaimer]

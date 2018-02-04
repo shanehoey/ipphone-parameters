@@ -1,6 +1,7 @@
 ﻿---
 description: lync/location_profile_description/name
-search: false
+search:
+    keywords: ['lync','location_profile_description','name']
 ---
 
 # lync/location_profile_description/name
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | lync/location_profile_description/name= 
-| audc440HD | ;UC_3.0.1.322 | lync/location_profile_description/name= 
-| audc450HD | ;UC_3.0.4.111.77 | lync/location_profile_description/name= 
+| 405HD | ;UC_3.0.1.322 | lync/location_profile_description/name= 
+| 440HD | ;UC_3.0.1.322 | lync/location_profile_description/name= 
+| 450HD | ;UC_3.0.4.111.77 | lync/location_profile_description/name= 
 
 (view disclaimer)[disclaimer]

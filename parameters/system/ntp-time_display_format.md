@@ -1,6 +1,7 @@
 ﻿---
 description: system/ntp/time_display_format
-search: false
+search:
+    keywords: ['system','ntp','time_display_format']
 ---
 
 # system/ntp/time_display_format
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | system/ntp/time_display_format=24HOUR 
-| audc440HD | ;UC_3.0.1.322 | system/ntp/time_display_format=24HOUR 
-| audc450HD | ;UC_3.0.4.111.77 | system/ntp/time_display_format=24HOUR 
+| 405HD | ;UC_3.0.1.322 | system/ntp/time_display_format=24HOUR 
+| 440HD | ;UC_3.0.1.322 | system/ntp/time_display_format=24HOUR 
+| 450HD | ;UC_3.0.4.111.77 | system/ntp/time_display_format=24HOUR 
 
 (view disclaimer)[disclaimer]

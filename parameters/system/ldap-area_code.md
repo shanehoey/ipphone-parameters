@@ -1,6 +1,7 @@
 ﻿---
 description: system/ldap/area_code
-search: false
+search:
+    keywords: ['system','ldap','area_code']
 ---
 
 # system/ldap/area_code
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | system/ldap/area_code= 
-| audc440HD | ;UC_3.0.1.322 | system/ldap/area_code= 
-| audc450HD | ;UC_3.0.4.111.77 | system/ldap/area_code= 
+| 405HD | ;UC_3.0.1.322 | system/ldap/area_code= 
+| 440HD | ;UC_3.0.1.322 | system/ldap/area_code= 
+| 450HD | ;UC_3.0.4.111.77 | system/ldap/area_code= 
 
 (view disclaimer)[disclaimer]

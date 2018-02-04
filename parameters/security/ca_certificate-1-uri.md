@@ -1,6 +1,7 @@
 ﻿---
 description: security/ca_certificate/1/uri
-search: false
+search:
+    keywords: ['security','ca_certificate','1','uri']
 ---
 
 # security/ca_certificate/1/uri
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | security/ca_certificate/1/uri= 
-| audc440HD | ;UC_3.0.1.322 | security/ca_certificate/1/uri= 
-| audc450HD | ;UC_3.0.4.111.77 | security/ca_certificate/1/uri= 
+| 405HD | ;UC_3.0.1.322 | security/ca_certificate/1/uri= 
+| 440HD | ;UC_3.0.1.322 | security/ca_certificate/1/uri= 
+| 450HD | ;UC_3.0.4.111.77 | security/ca_certificate/1/uri= 
 
 (view disclaimer)[disclaimer]

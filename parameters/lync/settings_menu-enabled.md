@@ -1,6 +1,7 @@
 ﻿---
 description: lync/settings_menu/enabled
-search: false
+search:
+    keywords: ['lync','settings_menu','enabled']
 ---
 
 # lync/settings_menu/enabled
@@ -35,6 +36,6 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc450HD | ;UC_3.0.4.111.77 | lync/settings_menu/enabled=1 
+| 450HD | ;UC_3.0.4.111.77 | lync/settings_menu/enabled=1 
 
 (view disclaimer)[disclaimer]

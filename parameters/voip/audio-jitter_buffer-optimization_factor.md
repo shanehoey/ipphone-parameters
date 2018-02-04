@@ -1,6 +1,7 @@
 ﻿---
 description: voip/audio/jitter_buffer/optimization_factor
-search: false
+search:
+    keywords: ['voip','audio','jitter_buffer','optimization_factor']
 ---
 
 # voip/audio/jitter_buffer/optimization_factor
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | voip/audio/jitter_buffer/optimization_factor=10 
-| audc440HD | ;UC_3.0.1.322 | voip/audio/jitter_buffer/optimization_factor=10 
-| audc450HD | ;UC_3.0.4.111.77 | voip/audio/jitter_buffer/optimization_factor=10 
+| 405HD | ;UC_3.0.1.322 | voip/audio/jitter_buffer/optimization_factor=10 
+| 440HD | ;UC_3.0.1.322 | voip/audio/jitter_buffer/optimization_factor=10 
+| 450HD | ;UC_3.0.4.111.77 | voip/audio/jitter_buffer/optimization_factor=10 
 
 (view disclaimer)[disclaimer]

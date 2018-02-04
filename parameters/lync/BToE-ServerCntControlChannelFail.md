@@ -1,6 +1,7 @@
 ﻿---
 description: lync/BToE/ServerCntControlChannelFail
-search: false
+search:
+    keywords: ['lync','BToE','ServerCntControlChannelFail']
 ---
 
 # lync/BToE/ServerCntControlChannelFail
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | lync/BToE/ServerCntControlChannelFail=1 
-| audc440HD | ;UC_3.0.1.322 | lync/BToE/ServerCntControlChannelFail=1 
-| audc450HD | ;UC_3.0.4.111.77 | lync/BToE/ServerCntControlChannelFail=1 
+| 405HD | ;UC_3.0.1.322 | lync/BToE/ServerCntControlChannelFail=1 
+| 440HD | ;UC_3.0.1.322 | lync/BToE/ServerCntControlChannelFail=1 
+| 450HD | ;UC_3.0.4.111.77 | lync/BToE/ServerCntControlChannelFail=1 
 
 (view disclaimer)[disclaimer]

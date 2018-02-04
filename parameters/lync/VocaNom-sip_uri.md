@@ -1,6 +1,7 @@
 ﻿---
 description: lync/VocaNom/sip_uri
-search: false
+search:
+    keywords: ['lync','VocaNom','sip_uri']
 ---
 
 # lync/VocaNom/sip_uri
@@ -35,6 +36,6 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | lync/VocaNom/sip_uri= 
+| 405HD | ;UC_3.0.1.322 | lync/VocaNom/sip_uri= 
 
 (view disclaimer)[disclaimer]

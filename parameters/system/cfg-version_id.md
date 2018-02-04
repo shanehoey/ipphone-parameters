@@ -1,6 +1,7 @@
 ﻿---
 description: system/cfg/version_id
-search: false
+search:
+    keywords: ['system','cfg','version_id']
 ---
 
 # system/cfg/version_id
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | system/cfg/version_id=9 
-| audc440HD | ;UC_3.0.1.322 | system/cfg/version_id=9 
-| audc450HD | ;UC_3.0.4.111.77 | system/cfg/version_id=9 
+| 405HD | ;UC_3.0.1.322 | system/cfg/version_id=9 
+| 440HD | ;UC_3.0.1.322 | system/cfg/version_id=9 
+| 450HD | ;UC_3.0.4.111.77 | system/cfg/version_id=9 
 
 (view disclaimer)[disclaimer]

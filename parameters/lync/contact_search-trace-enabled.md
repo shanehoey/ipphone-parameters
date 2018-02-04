@@ -1,6 +1,7 @@
 ﻿---
 description: lync/contact_search/trace/enabled
-search: false
+search:
+    keywords: ['lync','contact_search','trace','enabled']
 ---
 
 # lync/contact_search/trace/enabled
@@ -35,6 +36,6 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc450HD | ;UC_3.0.4.111.77 | lync/contact_search/trace/enabled=0 
+| 450HD | ;UC_3.0.4.111.77 | lync/contact_search/trace/enabled=0 
 
 (view disclaimer)[disclaimer]

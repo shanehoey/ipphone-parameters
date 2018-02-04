@@ -1,6 +1,7 @@
 ﻿---
 description: network/lan/_802_1x/tls_identity
-search: false
+search:
+    keywords: ['network','lan','_802_1x','tls_identity']
 ---
 
 # network/lan/_802_1x/tls_identity
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | network/lan/_802_1x/tls_identity= 
-| audc440HD | ;UC_3.0.1.322 | network/lan/_802_1x/tls_identity= 
-| audc450HD | ;UC_3.0.4.111.77 | network/lan/_802_1x/tls_identity= 
+| 405HD | ;UC_3.0.1.322 | network/lan/_802_1x/tls_identity= 
+| 440HD | ;UC_3.0.1.322 | network/lan/_802_1x/tls_identity= 
+| 450HD | ;UC_3.0.4.111.77 | network/lan/_802_1x/tls_identity= 
 
 (view disclaimer)[disclaimer]

@@ -1,6 +1,7 @@
 ﻿---
 description: network/lan/dhcp/secondary_dns/enabled
-search: false
+search:
+    keywords: ['network','lan','dhcp','secondary_dns','enabled']
 ---
 
 # network/lan/dhcp/secondary_dns/enabled
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | network/lan/dhcp/secondary_dns/enabled=1 
-| audc440HD | ;UC_3.0.1.322 | network/lan/dhcp/secondary_dns/enabled=1 
-| audc450HD | ;UC_3.0.4.111.77 | network/lan/dhcp/secondary_dns/enabled=1 
+| 405HD | ;UC_3.0.1.322 | network/lan/dhcp/secondary_dns/enabled=1 
+| 440HD | ;UC_3.0.1.322 | network/lan/dhcp/secondary_dns/enabled=1 
+| 450HD | ;UC_3.0.4.111.77 | network/lan/dhcp/secondary_dns/enabled=1 
 
 (view disclaimer)[disclaimer]

@@ -1,6 +1,7 @@
 ﻿---
 description: status/lync/perform_sign_out_on_start
-search: false
+search:
+    keywords: ['status','lync','perform_sign_out_on_start']
 ---
 
 # status/lync/perform_sign_out_on_start
@@ -35,6 +36,6 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc450HD | ;UC_3.0.4.111.77 | status/lync/perform_sign_out_on_start=0 
+| 450HD | ;UC_3.0.4.111.77 | status/lync/perform_sign_out_on_start=0 
 
 (view disclaimer)[disclaimer]

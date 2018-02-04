@@ -1,6 +1,7 @@
 ﻿---
 description: voip/services/application_server_type
-search: false
+search:
+    keywords: ['voip','services','application_server_type']
 ---
 
 # voip/services/application_server_type
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | voip/services/application_server_type=LYNC 
-| audc440HD | ;UC_3.0.1.322 | voip/services/application_server_type=LYNC 
-| audc450HD | ;UC_3.0.4.111.77 | voip/services/application_server_type=LYNC 
+| 405HD | ;UC_3.0.1.322 | voip/services/application_server_type=LYNC 
+| 440HD | ;UC_3.0.1.322 | voip/services/application_server_type=LYNC 
+| 450HD | ;UC_3.0.4.111.77 | voip/services/application_server_type=LYNC 
 
 (view disclaimer)[disclaimer]

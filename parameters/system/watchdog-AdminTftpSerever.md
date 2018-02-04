@@ -1,6 +1,7 @@
 ﻿---
 description: system/watchdog/AdminTftpSerever
-search: false
+search:
+    keywords: ['system','watchdog','AdminTftpSerever']
 ---
 
 # system/watchdog/AdminTftpSerever
@@ -35,6 +36,6 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc450HD | ;UC_3.0.4.111.77 | system/watchdog/AdminTftpSerever= 
+| 450HD | ;UC_3.0.4.111.77 | system/watchdog/AdminTftpSerever= 
 
 (view disclaimer)[disclaimer]

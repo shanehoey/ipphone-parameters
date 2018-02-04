@@ -1,6 +1,7 @@
 ﻿---
 description: voip/codec/g723_bitrate
-search: false
+search:
+    keywords: ['voip','codec','g723_bitrate']
 ---
 
 # voip/codec/g723_bitrate
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | voip/codec/g723_bitrate=HIGH 
-| audc440HD | ;UC_3.0.1.322 | voip/codec/g723_bitrate=HIGH 
-| audc450HD | ;UC_3.0.4.111.77 | voip/codec/g723_bitrate=HIGH 
+| 405HD | ;UC_3.0.1.322 | voip/codec/g723_bitrate=HIGH 
+| 440HD | ;UC_3.0.1.322 | voip/codec/g723_bitrate=HIGH 
+| 450HD | ;UC_3.0.4.111.77 | voip/codec/g723_bitrate=HIGH 
 
 (view disclaimer)[disclaimer]

@@ -1,6 +1,7 @@
 ﻿---
 description: system/ntp/sync_time/days
-search: false
+search:
+    keywords: ['system','ntp','sync_time','days']
 ---
 
 # system/ntp/sync_time/days
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | system/ntp/sync_time/days=0 
-| audc440HD | ;UC_3.0.1.322 | system/ntp/sync_time/days=0 
-| audc450HD | ;UC_3.0.4.111.77 | system/ntp/sync_time/days=0 
+| 405HD | ;UC_3.0.1.322 | system/ntp/sync_time/days=0 
+| 440HD | ;UC_3.0.1.322 | system/ntp/sync_time/days=0 
+| 450HD | ;UC_3.0.4.111.77 | system/ntp/sync_time/days=0 
 
 (view disclaimer)[disclaimer]

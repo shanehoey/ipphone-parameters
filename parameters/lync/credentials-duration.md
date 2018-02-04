@@ -1,6 +1,7 @@
 ﻿---
 description: lync/credentials/duration
-search: false
+search:
+    keywords: ['lync','credentials','duration']
 ---
 
 # lync/credentials/duration
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | lync/credentials/duration=480 
-| audc440HD | ;UC_3.0.1.322 | lync/credentials/duration=480 
-| audc450HD | ;UC_3.0.4.111.77 | lync/credentials/duration=480 
+| 405HD | ;UC_3.0.1.322 | lync/credentials/duration=480 
+| 440HD | ;UC_3.0.1.322 | lync/credentials/duration=480 
+| 450HD | ;UC_3.0.4.111.77 | lync/credentials/duration=480 
 
 (view disclaimer)[disclaimer]

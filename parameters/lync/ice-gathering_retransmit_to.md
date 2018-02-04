@@ -1,6 +1,7 @@
 ﻿---
 description: lync/ice/gathering_retransmit_to
-search: false
+search:
+    keywords: ['lync','ice','gathering_retransmit_to']
 ---
 
 # lync/ice/gathering_retransmit_to
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | lync/ice/gathering_retransmit_to=200 
-| audc440HD | ;UC_3.0.1.322 | lync/ice/gathering_retransmit_to=200 
-| audc450HD | ;UC_3.0.4.111.77 | lync/ice/gathering_retransmit_to=200 
+| 405HD | ;UC_3.0.1.322 | lync/ice/gathering_retransmit_to=200 
+| 440HD | ;UC_3.0.1.322 | lync/ice/gathering_retransmit_to=200 
+| 450HD | ;UC_3.0.4.111.77 | lync/ice/gathering_retransmit_to=200 
 
 (view disclaimer)[disclaimer]

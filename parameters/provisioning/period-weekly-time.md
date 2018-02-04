@@ -1,6 +1,7 @@
 ﻿---
 description: provisioning/period/weekly/time
-search: false
+search:
+    keywords: ['provisioning','period','weekly','time']
 ---
 
 # provisioning/period/weekly/time
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | provisioning/period/weekly/time=00:00 
-| audc440HD | ;UC_3.0.1.322 | provisioning/period/weekly/time=00:00 
-| audc450HD | ;UC_3.0.4.111.77 | provisioning/period/weekly/time=0:00 
+| 405HD | ;UC_3.0.1.322 | provisioning/period/weekly/time=00:00 
+| 440HD | ;UC_3.0.1.322 | provisioning/period/weekly/time=00:00 
+| 450HD | ;UC_3.0.4.111.77 | provisioning/period/weekly/time=0:00 
 
 (view disclaimer)[disclaimer]

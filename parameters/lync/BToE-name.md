@@ -1,6 +1,7 @@
 ﻿---
 description: lync/BToE/name
-search: false
+search:
+    keywords: ['lync','BToE','name']
 ---
 
 # lync/BToE/name
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | lync/BToE/name=AudioCodes 400HD Phone 
-| audc440HD | ;UC_3.0.1.322 | lync/BToE/name=AudioCodes 400HD Phone 
-| audc450HD | ;UC_3.0.4.111.77 | lync/BToE/name=AudioCodes 400HD Phone 
+| 405HD | ;UC_3.0.1.322 | lync/BToE/name=AudioCodes 400HD Phone 
+| 440HD | ;UC_3.0.1.322 | lync/BToE/name=AudioCodes 400HD Phone 
+| 450HD | ;UC_3.0.4.111.77 | lync/BToE/name=AudioCodes 400HD Phone 
 
 (view disclaimer)[disclaimer]

@@ -1,6 +1,7 @@
 ﻿---
 description: lync/calendar/reminder/enabled
-search: false
+search:
+    keywords: ['lync','calendar','reminder','enabled']
 ---
 
 # lync/calendar/reminder/enabled
@@ -35,6 +36,6 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc450HD | ;UC_3.0.4.111.77 | lync/calendar/reminder/enabled=1 
+| 450HD | ;UC_3.0.4.111.77 | lync/calendar/reminder/enabled=1 
 
 (view disclaimer)[disclaimer]

@@ -1,6 +1,7 @@
 ﻿---
 description: lync/callLog/MaxItems
-search: false
+search:
+    keywords: ['lync','callLog','MaxItems']
 ---
 
 # lync/callLog/MaxItems
@@ -35,6 +36,6 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc450HD | ;UC_3.0.4.111.77 | lync/callLog/MaxItems=20 
+| 450HD | ;UC_3.0.4.111.77 | lync/callLog/MaxItems=20 
 
 (view disclaimer)[disclaimer]

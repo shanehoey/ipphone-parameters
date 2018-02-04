@@ -1,6 +1,7 @@
 ﻿---
 description: voip/services/msg_waiting/stutter_tone_duration
-search: false
+search:
+    keywords: ['voip','services','msg_waiting','stutter_tone_duration']
 ---
 
 # voip/services/msg_waiting/stutter_tone_duration
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | voip/services/msg_waiting/stutter_tone_duration=2500 
-| audc440HD | ;UC_3.0.1.322 | voip/services/msg_waiting/stutter_tone_duration=2500 
-| audc450HD | ;UC_3.0.4.111.77 | voip/services/msg_waiting/stutter_tone_duration=2500 
+| 405HD | ;UC_3.0.1.322 | voip/services/msg_waiting/stutter_tone_duration=2500 
+| 440HD | ;UC_3.0.1.322 | voip/services/msg_waiting/stutter_tone_duration=2500 
+| 450HD | ;UC_3.0.4.111.77 | voip/services/msg_waiting/stutter_tone_duration=2500 
 
 (view disclaimer)[disclaimer]

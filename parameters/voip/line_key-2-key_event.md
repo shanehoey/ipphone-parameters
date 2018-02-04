@@ -1,6 +1,7 @@
 ﻿---
 description: voip/line_key/2/key_event
-search: false
+search:
+    keywords: ['voip','line_key','2','key_event']
 ---
 
 # voip/line_key/2/key_event
@@ -35,7 +36,7 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc440HD | ;UC_3.0.1.322 | voip/line_key/2/key_event=CALENDAR 
-| audc450HD | ;UC_3.0.4.111.77 | voip/line_key/2/key_event=CALENDAR 
+| 440HD | ;UC_3.0.1.322 | voip/line_key/2/key_event=CALENDAR 
+| 450HD | ;UC_3.0.4.111.77 | voip/line_key/2/key_event=CALENDAR 
 
 (view disclaimer)[disclaimer]

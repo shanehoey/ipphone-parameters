@@ -1,6 +1,7 @@
 ﻿---
 description: personal_settings/lcd_contrast
-search: false
+search:
+    keywords: ['personal_settings','lcd_contrast']
 ---
 
 # personal_settings/lcd_contrast
@@ -35,7 +36,7 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | personal_settings/lcd_contrast=27 
-| audc440HD | ;UC_3.0.1.322 | personal_settings/lcd_contrast=69 
+| 405HD | ;UC_3.0.1.322 | personal_settings/lcd_contrast=27 
+| 440HD | ;UC_3.0.1.322 | personal_settings/lcd_contrast=69 
 
 (view disclaimer)[disclaimer]

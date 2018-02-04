@@ -1,6 +1,7 @@
 ﻿---
 description: lync/VoiceMail/polling_counters_timer
-search: false
+search:
+    keywords: ['lync','VoiceMail','polling_counters_timer']
 ---
 
 # lync/VoiceMail/polling_counters_timer
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | lync/VoiceMail/polling_counters_timer=60 
-| audc440HD | ;UC_3.0.1.322 | lync/VoiceMail/polling_counters_timer=60 
-| audc450HD | ;UC_3.0.4.111.77 | lync/VoiceMail/polling_counters_timer=60 
+| 405HD | ;UC_3.0.1.322 | lync/VoiceMail/polling_counters_timer=60 
+| 440HD | ;UC_3.0.1.322 | lync/VoiceMail/polling_counters_timer=60 
+| 450HD | ;UC_3.0.4.111.77 | lync/VoiceMail/polling_counters_timer=60 
 
 (view disclaimer)[disclaimer]

@@ -1,6 +1,7 @@
 ﻿---
 description: lync/ServerConfiguration/ucEnforcePinLock
-search: false
+search:
+    keywords: ['lync','ServerConfiguration','ucEnforcePinLock']
 ---
 
 # lync/ServerConfiguration/ucEnforcePinLock
@@ -35,7 +36,7 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | lync/ServerConfiguration/ucEnforcePinLock=0 
-| audc440HD | ;UC_3.0.1.322 | lync/ServerConfiguration/ucEnforcePinLock=0 
+| 405HD | ;UC_3.0.1.322 | lync/ServerConfiguration/ucEnforcePinLock=0 
+| 440HD | ;UC_3.0.1.322 | lync/ServerConfiguration/ucEnforcePinLock=0 
 
 (view disclaimer)[disclaimer]

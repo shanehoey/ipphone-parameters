@@ -1,6 +1,7 @@
 ﻿---
 description: system/daylight_saving/end_date/day_of_week
-search: false
+search:
+    keywords: ['system','daylight_saving','end_date','day_of_week']
 ---
 
 # system/daylight_saving/end_date/day_of_week
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | system/daylight_saving/end_date/day_of_week=SUNDAY 
-| audc440HD | ;UC_3.0.1.322 | system/daylight_saving/end_date/day_of_week=SUNDAY 
-| audc450HD | ;UC_3.0.4.111.77 | system/daylight_saving/end_date/day_of_week=SUNDAY 
+| 405HD | ;UC_3.0.1.322 | system/daylight_saving/end_date/day_of_week=SUNDAY 
+| 440HD | ;UC_3.0.1.322 | system/daylight_saving/end_date/day_of_week=SUNDAY 
+| 450HD | ;UC_3.0.4.111.77 | system/daylight_saving/end_date/day_of_week=SUNDAY 
 
 (view disclaimer)[disclaimer]

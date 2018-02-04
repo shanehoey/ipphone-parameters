@@ -1,6 +1,7 @@
 ﻿---
 description: system/type
-search: false
+search:
+    keywords: ['system','type']
 ---
 
 # system/type
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | system/type=405HD 
-| audc440HD | ;UC_3.0.1.322 | system/type=440HD 
-| audc450HD | ;UC_3.0.4.111.77 | system/type=450HD 
+| 405HD | ;UC_3.0.1.322 | system/type=405HD 
+| 440HD | ;UC_3.0.1.322 | system/type=440HD 
+| 450HD | ;UC_3.0.4.111.77 | system/type=450HD 
 
 (view disclaimer)[disclaimer]

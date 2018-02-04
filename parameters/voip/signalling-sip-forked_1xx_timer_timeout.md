@@ -1,6 +1,7 @@
 ﻿---
 description: voip/signalling/sip/forked_1xx_timer_timeout
-search: false
+search:
+    keywords: ['voip','signalling','sip','forked_1xx_timer_timeout']
 ---
 
 # voip/signalling/sip/forked_1xx_timer_timeout
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | voip/signalling/sip/forked_1xx_timer_timeout=62000 
-| audc440HD | ;UC_3.0.1.322 | voip/signalling/sip/forked_1xx_timer_timeout=62000 
-| audc450HD | ;UC_3.0.4.111.77 | voip/signalling/sip/forked_1xx_timer_timeout=62000 
+| 405HD | ;UC_3.0.1.322 | voip/signalling/sip/forked_1xx_timer_timeout=62000 
+| 440HD | ;UC_3.0.1.322 | voip/signalling/sip/forked_1xx_timer_timeout=62000 
+| 450HD | ;UC_3.0.4.111.77 | voip/signalling/sip/forked_1xx_timer_timeout=62000 
 
 (view disclaimer)[disclaimer]

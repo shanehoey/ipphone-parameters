@@ -1,6 +1,7 @@
 ﻿---
 description: network/lan/_802_1x/private_key_url
-search: false
+search:
+    keywords: ['network','lan','_802_1x','private_key_url']
 ---
 
 # network/lan/_802_1x/private_key_url
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | network/lan/_802_1x/private_key_url= 
-| audc440HD | ;UC_3.0.1.322 | network/lan/_802_1x/private_key_url= 
-| audc450HD | ;UC_3.0.4.111.77 | network/lan/_802_1x/private_key_url= 
+| 405HD | ;UC_3.0.1.322 | network/lan/_802_1x/private_key_url= 
+| 440HD | ;UC_3.0.1.322 | network/lan/_802_1x/private_key_url= 
+| 450HD | ;UC_3.0.4.111.77 | network/lan/_802_1x/private_key_url= 
 
 (view disclaimer)[disclaimer]

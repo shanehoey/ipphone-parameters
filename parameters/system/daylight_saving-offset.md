@@ -1,6 +1,7 @@
 ﻿---
 description: system/daylight_saving/offset
-search: false
+search:
+    keywords: ['system','daylight_saving','offset']
 ---
 
 # system/daylight_saving/offset
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | system/daylight_saving/offset=60 
-| audc440HD | ;UC_3.0.1.322 | system/daylight_saving/offset=60 
-| audc450HD | ;UC_3.0.4.111.77 | system/daylight_saving/offset=60 
+| 405HD | ;UC_3.0.1.322 | system/daylight_saving/offset=60 
+| 440HD | ;UC_3.0.1.322 | system/daylight_saving/offset=60 
+| 450HD | ;UC_3.0.4.111.77 | system/daylight_saving/offset=60 
 
 (view disclaimer)[disclaimer]

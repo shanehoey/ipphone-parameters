@@ -1,6 +1,7 @@
 ﻿---
 description: personal_settings/functional_key/8/type
-search: false
+search:
+    keywords: ['personal_settings','functional_key','8','type']
 ---
 
 # personal_settings/functional_key/8/type
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | personal_settings/functional_key/8/type=EMPTY 
-| audc440HD | ;UC_3.0.1.322 | personal_settings/functional_key/8/type=EMPTY 
-| audc450HD | ;UC_3.0.4.111.77 | personal_settings/functional_key/8/type=EMPTY 
+| 405HD | ;UC_3.0.1.322 | personal_settings/functional_key/8/type=EMPTY 
+| 440HD | ;UC_3.0.1.322 | personal_settings/functional_key/8/type=EMPTY 
+| 450HD | ;UC_3.0.4.111.77 | personal_settings/functional_key/8/type=EMPTY 
 
 (view disclaimer)[disclaimer]

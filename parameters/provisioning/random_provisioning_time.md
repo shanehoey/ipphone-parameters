@@ -1,6 +1,7 @@
 ﻿---
 description: provisioning/random_provisioning_time
-search: false
+search:
+    keywords: ['provisioning','random_provisioning_time']
 ---
 
 # provisioning/random_provisioning_time
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | provisioning/random_provisioning_time=120 
-| audc440HD | ;UC_3.0.1.322 | provisioning/random_provisioning_time=120 
-| audc450HD | ;UC_3.0.4.111.77 | provisioning/random_provisioning_time=120 
+| 405HD | ;UC_3.0.1.322 | provisioning/random_provisioning_time=120 
+| 440HD | ;UC_3.0.1.322 | provisioning/random_provisioning_time=120 
+| 450HD | ;UC_3.0.4.111.77 | provisioning/random_provisioning_time=120 
 
 (view disclaimer)[disclaimer]

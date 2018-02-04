@@ -1,6 +1,7 @@
 ﻿---
 description: lync/calendar/mode
-search: false
+search:
+    keywords: ['lync','calendar','mode']
 ---
 
 # lync/calendar/mode
@@ -35,7 +36,7 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | lync/calendar/mode=TODAY 
-| audc440HD | ;UC_3.0.1.322 | lync/calendar/mode=TODAY 
+| 405HD | ;UC_3.0.1.322 | lync/calendar/mode=TODAY 
+| 440HD | ;UC_3.0.1.322 | lync/calendar/mode=TODAY 
 
 (view disclaimer)[disclaimer]

@@ -1,6 +1,7 @@
 ﻿---
 description: system/trace/max_file_size
-search: false
+search:
+    keywords: ['system','trace','max_file_size']
 ---
 
 # system/trace/max_file_size
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | system/trace/max_file_size=200 
-| audc440HD | ;UC_3.0.1.322 | system/trace/max_file_size=200 
-| audc450HD | ;UC_3.0.4.111.77 | system/trace/max_file_size=200 
+| 405HD | ;UC_3.0.1.322 | system/trace/max_file_size=200 
+| 440HD | ;UC_3.0.1.322 | system/trace/max_file_size=200 
+| 450HD | ;UC_3.0.4.111.77 | system/trace/max_file_size=200 
 
 (view disclaimer)[disclaimer]

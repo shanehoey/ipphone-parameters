@@ -1,6 +1,7 @@
 ﻿---
 description: lync/sign_in/check_server_sertificate
-search: false
+search:
+    keywords: ['lync','sign_in','check_server_sertificate']
 ---
 
 # lync/sign_in/check_server_sertificate
@@ -35,6 +36,6 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | lync/sign_in/check_server_sertificate=1 
+| 405HD | ;UC_3.0.1.322 | lync/sign_in/check_server_sertificate=1 
 
 (view disclaimer)[disclaimer]

@@ -1,6 +1,7 @@
 ﻿---
 description: voip/services/call_pickup/enabled
-search: false
+search:
+    keywords: ['voip','services','call_pickup','enabled']
 ---
 
 # voip/services/call_pickup/enabled
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | voip/services/call_pickup/enabled=0 
-| audc440HD | ;UC_3.0.1.322 | voip/services/call_pickup/enabled=0 
-| audc450HD | ;UC_3.0.4.111.77 | voip/services/call_pickup/enabled=0 
+| 405HD | ;UC_3.0.1.322 | voip/services/call_pickup/enabled=0 
+| 440HD | ;UC_3.0.1.322 | voip/services/call_pickup/enabled=0 
+| 450HD | ;UC_3.0.4.111.77 | voip/services/call_pickup/enabled=0 
 
 (view disclaimer)[disclaimer]

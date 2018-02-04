@@ -1,6 +1,7 @@
 ﻿---
 description: voip/services/out_of_service_behavior
-search: false
+search:
+    keywords: ['voip','services','out_of_service_behavior']
 ---
 
 # voip/services/out_of_service_behavior
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | voip/services/out_of_service_behavior=REORDER_TONE 
-| audc440HD | ;UC_3.0.1.322 | voip/services/out_of_service_behavior=REORDER_TONE 
-| audc450HD | ;UC_3.0.4.111.77 | voip/services/out_of_service_behavior=REORDER_TONE 
+| 405HD | ;UC_3.0.1.322 | voip/services/out_of_service_behavior=REORDER_TONE 
+| 440HD | ;UC_3.0.1.322 | voip/services/out_of_service_behavior=REORDER_TONE 
+| 450HD | ;UC_3.0.4.111.77 | voip/services/out_of_service_behavior=REORDER_TONE 
 
 (view disclaimer)[disclaimer]

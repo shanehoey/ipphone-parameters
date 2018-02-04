@@ -1,6 +1,7 @@
 ﻿---
 description: lync/inband/ipPhonePolicy/KeyboardLockMaxPinRetry
-search: false
+search:
+    keywords: ['lync','inband','ipPhonePolicy','KeyboardLockMaxPinRetry']
 ---
 
 # lync/inband/ipPhonePolicy/KeyboardLockMaxPinRetry
@@ -35,6 +36,6 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc450HD | ;UC_3.0.4.111.77 | lync/inband/ipPhonePolicy/KeyboardLockMaxPinRetry=5 
+| 450HD | ;UC_3.0.4.111.77 | lync/inband/ipPhonePolicy/KeyboardLockMaxPinRetry=5 
 
 (view disclaimer)[disclaimer]

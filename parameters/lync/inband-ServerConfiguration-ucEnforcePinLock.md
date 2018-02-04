@@ -1,6 +1,7 @@
 ﻿---
 description: lync/inband/ServerConfiguration/ucEnforcePinLock
-search: false
+search:
+    keywords: ['lync','inband','ServerConfiguration','ucEnforcePinLock']
 ---
 
 # lync/inband/ServerConfiguration/ucEnforcePinLock
@@ -35,6 +36,6 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc450HD | ;UC_3.0.4.111.77 | lync/inband/ServerConfiguration/ucEnforcePinLock=0 
+| 450HD | ;UC_3.0.4.111.77 | lync/inband/ServerConfiguration/ucEnforcePinLock=0 
 
 (view disclaimer)[disclaimer]

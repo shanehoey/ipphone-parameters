@@ -1,6 +1,7 @@
 ﻿---
 description: voip/audio/gain/handset_analog_sidetone_gain
-search: false
+search:
+    keywords: ['voip','audio','gain','handset_analog_sidetone_gain']
 ---
 
 # voip/audio/gain/handset_analog_sidetone_gain
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | voip/audio/gain/handset_analog_sidetone_gain=MINUS21DB 
-| audc440HD | ;UC_3.0.1.322 | voip/audio/gain/handset_analog_sidetone_gain=MINUS12DB 
-| audc450HD | ;UC_3.0.4.111.77 | voip/audio/gain/handset_analog_sidetone_gain=MINUS12DB 
+| 405HD | ;UC_3.0.1.322 | voip/audio/gain/handset_analog_sidetone_gain=MINUS21DB 
+| 440HD | ;UC_3.0.1.322 | voip/audio/gain/handset_analog_sidetone_gain=MINUS12DB 
+| 450HD | ;UC_3.0.4.111.77 | voip/audio/gain/handset_analog_sidetone_gain=MINUS12DB 
 
 (view disclaimer)[disclaimer]

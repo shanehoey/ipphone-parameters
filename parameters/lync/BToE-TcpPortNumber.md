@@ -1,6 +1,7 @@
 ﻿---
 description: lync/BToE/TcpPortNumber
-search: false
+search:
+    keywords: ['lync','BToE','TcpPortNumber']
 ---
 
 # lync/BToE/TcpPortNumber
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | lync/BToE/TcpPortNumber=9999 
-| audc440HD | ;UC_3.0.1.322 | lync/BToE/TcpPortNumber=9999 
-| audc450HD | ;UC_3.0.4.111.77 | lync/BToE/TcpPortNumber=9999 
+| 405HD | ;UC_3.0.1.322 | lync/BToE/TcpPortNumber=9999 
+| 440HD | ;UC_3.0.1.322 | lync/BToE/TcpPortNumber=9999 
+| 450HD | ;UC_3.0.4.111.77 | lync/BToE/TcpPortNumber=9999 
 
 (view disclaimer)[disclaimer]

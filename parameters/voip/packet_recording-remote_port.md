@@ -1,6 +1,7 @@
 ﻿---
 description: voip/packet_recording/remote_port
-search: false
+search:
+    keywords: ['voip','packet_recording','remote_port']
 ---
 
 # voip/packet_recording/remote_port
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | voip/packet_recording/remote_port=50000 
-| audc440HD | ;UC_3.0.1.322 | voip/packet_recording/remote_port=50000 
-| audc450HD | ;UC_3.0.4.111.77 | voip/packet_recording/remote_port=50000 
+| 405HD | ;UC_3.0.1.322 | voip/packet_recording/remote_port=50000 
+| 440HD | ;UC_3.0.1.322 | voip/packet_recording/remote_port=50000 
+| 450HD | ;UC_3.0.4.111.77 | voip/packet_recording/remote_port=50000 
 
 (view disclaimer)[disclaimer]

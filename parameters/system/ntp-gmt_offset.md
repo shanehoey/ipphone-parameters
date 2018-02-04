@@ -1,6 +1,7 @@
 ﻿---
 description: system/ntp/gmt_offset
-search: false
+search:
+    keywords: ['system','ntp','gmt_offset']
 ---
 
 # system/ntp/gmt_offset
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | system/ntp/gmt_offset=not_set 
-| audc440HD | ;UC_3.0.1.322 | system/ntp/gmt_offset=not_set 
-| audc450HD | ;UC_3.0.4.111.77 | system/ntp/gmt_offset=not_set_tmp 
+| 405HD | ;UC_3.0.1.322 | system/ntp/gmt_offset=not_set 
+| 440HD | ;UC_3.0.1.322 | system/ntp/gmt_offset=not_set 
+| 450HD | ;UC_3.0.4.111.77 | system/ntp/gmt_offset=not_set_tmp 
 
 (view disclaimer)[disclaimer]

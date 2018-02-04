@@ -1,6 +1,7 @@
 ﻿---
 description: provisioning/method
-search: false
+search:
+    keywords: ['provisioning','method']
 ---
 
 # provisioning/method
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | provisioning/method=DYNAMIC 
-| audc440HD | ;UC_3.0.1.322 | provisioning/method=DYNAMIC 
-| audc450HD | ;UC_3.0.4.111.77 | provisioning/method=DYNAMIC 
+| 405HD | ;UC_3.0.1.322 | provisioning/method=DYNAMIC 
+| 440HD | ;UC_3.0.1.322 | provisioning/method=DYNAMIC 
+| 450HD | ;UC_3.0.4.111.77 | provisioning/method=DYNAMIC 
 
 (view disclaimer)[disclaimer]

@@ -1,6 +1,7 @@
 ﻿---
 description: provisioning/configuration/dynamic_url
-search: false
+search:
+    keywords: ['provisioning','configuration','dynamic_url']
 ---
 
 # provisioning/configuration/dynamic_url
@@ -35,6 +36,6 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc450HD | ;UC_3.0.4.111.77 | provisioning/configuration/dynamic_url=tftp://ProvisioningServer/450HD/00908f98486e.cfg 
+| 450HD | ;UC_3.0.4.111.77 | provisioning/configuration/dynamic_url=tftp://ProvisioningServer/450HD/00908f98486e.cfg 
 
 (view disclaimer)[disclaimer]

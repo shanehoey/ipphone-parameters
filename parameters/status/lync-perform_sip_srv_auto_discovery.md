@@ -1,6 +1,7 @@
 ﻿---
 description: status/lync/perform_sip_srv_auto_discovery
-search: false
+search:
+    keywords: ['status','lync','perform_sip_srv_auto_discovery']
 ---
 
 # status/lync/perform_sip_srv_auto_discovery
@@ -35,6 +36,6 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc450HD | ;UC_3.0.4.111.77 | status/lync/perform_sip_srv_auto_discovery=0 
+| 450HD | ;UC_3.0.4.111.77 | status/lync/perform_sip_srv_auto_discovery=0 
 
 (view disclaimer)[disclaimer]

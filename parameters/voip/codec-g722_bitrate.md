@@ -1,6 +1,7 @@
 ﻿---
 description: voip/codec/g722_bitrate
-search: false
+search:
+    keywords: ['voip','codec','g722_bitrate']
 ---
 
 # voip/codec/g722_bitrate
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | voip/codec/g722_bitrate=G722_64K 
-| audc440HD | ;UC_3.0.1.322 | voip/codec/g722_bitrate=G722_64K 
-| audc450HD | ;UC_3.0.4.111.77 | voip/codec/g722_bitrate=G722_64K 
+| 405HD | ;UC_3.0.1.322 | voip/codec/g722_bitrate=G722_64K 
+| 440HD | ;UC_3.0.1.322 | voip/codec/g722_bitrate=G722_64K 
+| 450HD | ;UC_3.0.4.111.77 | voip/codec/g722_bitrate=G722_64K 
 
 (view disclaimer)[disclaimer]

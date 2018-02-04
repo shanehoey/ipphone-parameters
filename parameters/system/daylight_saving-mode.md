@@ -1,6 +1,7 @@
 ﻿---
 description: system/daylight_saving/mode
-search: false
+search:
+    keywords: ['system','daylight_saving','mode']
 ---
 
 # system/daylight_saving/mode
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | system/daylight_saving/mode=FIXED 
-| audc440HD | ;UC_3.0.1.322 | system/daylight_saving/mode=FIXED 
-| audc450HD | ;UC_3.0.4.111.77 | system/daylight_saving/mode=FIXED 
+| 405HD | ;UC_3.0.1.322 | system/daylight_saving/mode=FIXED 
+| 440HD | ;UC_3.0.1.322 | system/daylight_saving/mode=FIXED 
+| 450HD | ;UC_3.0.4.111.77 | system/daylight_saving/mode=FIXED 
 
 (view disclaimer)[disclaimer]

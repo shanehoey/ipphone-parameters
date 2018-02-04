@@ -1,6 +1,7 @@
 ﻿---
 description: system/trace/level
-search: false
+search:
+    keywords: ['system','trace','level']
 ---
 
 # system/trace/level
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | system/trace/level=NONE 
-| audc440HD | ;UC_3.0.1.322 | system/trace/level=NONE 
-| audc450HD | ;UC_3.0.4.111.77 | system/trace/level=NONE 
+| 405HD | ;UC_3.0.1.322 | system/trace/level=NONE 
+| 440HD | ;UC_3.0.1.322 | system/trace/level=NONE 
+| 450HD | ;UC_3.0.4.111.77 | system/trace/level=NONE 
 
 (view disclaimer)[disclaimer]

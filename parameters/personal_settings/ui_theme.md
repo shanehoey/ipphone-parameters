@@ -1,6 +1,7 @@
 ﻿---
 description: personal_settings/ui_theme
-search: false
+search:
+    keywords: ['personal_settings','ui_theme']
 ---
 
 # personal_settings/ui_theme
@@ -35,6 +36,6 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc450HD | ;UC_3.0.4.111.77 | personal_settings/ui_theme=MSFT_THEME 
+| 450HD | ;UC_3.0.4.111.77 | personal_settings/ui_theme=MSFT_THEME 
 
 (view disclaimer)[disclaimer]

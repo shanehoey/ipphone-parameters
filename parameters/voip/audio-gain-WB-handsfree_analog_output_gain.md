@@ -1,6 +1,7 @@
 ﻿---
 description: voip/audio/gain/WB/handsfree_analog_output_gain
-search: false
+search:
+    keywords: ['voip','audio','gain','WB','handsfree_analog_output_gain']
 ---
 
 # voip/audio/gain/WB/handsfree_analog_output_gain
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | voip/audio/gain/WB/handsfree_analog_output_gain=0DB 
-| audc440HD | ;UC_3.0.1.322 | voip/audio/gain/WB/handsfree_analog_output_gain=0DB 
-| audc450HD | ;UC_3.0.4.111.77 | voip/audio/gain/WB/handsfree_analog_output_gain=0DB 
+| 405HD | ;UC_3.0.1.322 | voip/audio/gain/WB/handsfree_analog_output_gain=0DB 
+| 440HD | ;UC_3.0.1.322 | voip/audio/gain/WB/handsfree_analog_output_gain=0DB 
+| 450HD | ;UC_3.0.4.111.77 | voip/audio/gain/WB/handsfree_analog_output_gain=0DB 
 
 (view disclaimer)[disclaimer]

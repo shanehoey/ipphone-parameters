@@ -1,6 +1,7 @@
 ﻿---
 description: lync/BToE/random_recover_time
-search: false
+search:
+    keywords: ['lync','BToE','random_recover_time']
 ---
 
 # lync/BToE/random_recover_time
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | lync/BToE/random_recover_time=60 
-| audc440HD | ;UC_3.0.1.322 | lync/BToE/random_recover_time=60 
-| audc450HD | ;UC_3.0.4.111.77 | lync/BToE/random_recover_time=60 
+| 405HD | ;UC_3.0.1.322 | lync/BToE/random_recover_time=60 
+| 440HD | ;UC_3.0.1.322 | lync/BToE/random_recover_time=60 
+| 450HD | ;UC_3.0.4.111.77 | lync/BToE/random_recover_time=60 
 
 (view disclaimer)[disclaimer]

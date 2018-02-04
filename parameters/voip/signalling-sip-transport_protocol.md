@@ -1,6 +1,7 @@
 ﻿---
 description: voip/signalling/sip/transport_protocol
-search: false
+search:
+    keywords: ['voip','signalling','sip','transport_protocol']
 ---
 
 # voip/signalling/sip/transport_protocol
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | voip/signalling/sip/transport_protocol=TLS 
-| audc440HD | ;UC_3.0.1.322 | voip/signalling/sip/transport_protocol=TLS 
-| audc450HD | ;UC_3.0.4.111.77 | voip/signalling/sip/transport_protocol=TLS 
+| 405HD | ;UC_3.0.1.322 | voip/signalling/sip/transport_protocol=TLS 
+| 440HD | ;UC_3.0.1.322 | voip/signalling/sip/transport_protocol=TLS 
+| 450HD | ;UC_3.0.4.111.77 | voip/signalling/sip/transport_protocol=TLS 
 
 (view disclaimer)[disclaimer]

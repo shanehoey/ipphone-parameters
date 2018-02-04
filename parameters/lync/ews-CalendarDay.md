@@ -1,6 +1,7 @@
 ﻿---
 description: lync/ews/CalendarDay
-search: false
+search:
+    keywords: ['lync','ews','CalendarDay']
 ---
 
 # lync/ews/CalendarDay
@@ -35,7 +36,7 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | lync/ews/CalendarDay=0 
-| audc440HD | ;UC_3.0.1.322 | lync/ews/CalendarDay=0 
+| 405HD | ;UC_3.0.1.322 | lync/ews/CalendarDay=0 
+| 440HD | ;UC_3.0.1.322 | lync/ews/CalendarDay=0 
 
 (view disclaimer)[disclaimer]

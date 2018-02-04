@@ -1,6 +1,7 @@
 ﻿---
 description: voip/signalling/sip/min_session_interval
-search: false
+search:
+    keywords: ['voip','signalling','sip','min_session_interval']
 ---
 
 # voip/signalling/sip/min_session_interval
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | voip/signalling/sip/min_session_interval=90 
-| audc440HD | ;UC_3.0.1.322 | voip/signalling/sip/min_session_interval=90 
-| audc450HD | ;UC_3.0.4.111.77 | voip/signalling/sip/min_session_interval=90 
+| 405HD | ;UC_3.0.1.322 | voip/signalling/sip/min_session_interval=90 
+| 440HD | ;UC_3.0.1.322 | voip/signalling/sip/min_session_interval=90 
+| 450HD | ;UC_3.0.4.111.77 | voip/signalling/sip/min_session_interval=90 
 
 (view disclaimer)[disclaimer]

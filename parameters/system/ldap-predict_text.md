@@ -1,6 +1,7 @@
 ﻿---
 description: system/ldap/predict_text
-search: false
+search:
+    keywords: ['system','ldap','predict_text']
 ---
 
 # system/ldap/predict_text
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | system/ldap/predict_text=0 
-| audc440HD | ;UC_3.0.1.322 | system/ldap/predict_text=0 
-| audc450HD | ;UC_3.0.4.111.77 | system/ldap/predict_text=0 
+| 405HD | ;UC_3.0.1.322 | system/ldap/predict_text=0 
+| 440HD | ;UC_3.0.1.322 | system/ldap/predict_text=0 
+| 450HD | ;UC_3.0.4.111.77 | system/ldap/predict_text=0 
 
 (view disclaimer)[disclaimer]

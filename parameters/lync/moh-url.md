@@ -1,6 +1,7 @@
 ﻿---
 description: lync/moh/url
-search: false
+search:
+    keywords: ['lync','moh','url']
 ---
 
 # lync/moh/url
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | lync/moh/url= 
-| audc440HD | ;UC_3.0.1.322 | lync/moh/url= 
-| audc450HD | ;UC_3.0.4.111.77 | lync/moh/url= 
+| 405HD | ;UC_3.0.1.322 | lync/moh/url= 
+| 440HD | ;UC_3.0.1.322 | lync/moh/url= 
+| 450HD | ;UC_3.0.4.111.77 | lync/moh/url= 
 
 (view disclaimer)[disclaimer]

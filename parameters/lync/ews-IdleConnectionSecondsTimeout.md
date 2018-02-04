@@ -1,6 +1,7 @@
 ﻿---
 description: lync/ews/IdleConnectionSecondsTimeout
-search: false
+search:
+    keywords: ['lync','ews','IdleConnectionSecondsTimeout']
 ---
 
 # lync/ews/IdleConnectionSecondsTimeout
@@ -35,6 +36,6 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc450HD | ;UC_3.0.4.111.77 | lync/ews/IdleConnectionSecondsTimeout=120 
+| 450HD | ;UC_3.0.4.111.77 | lync/ews/IdleConnectionSecondsTimeout=120 
 
 (view disclaimer)[disclaimer]

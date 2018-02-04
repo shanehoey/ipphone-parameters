@@ -1,6 +1,7 @@
 ﻿---
 description: personal_settings/lcd_night_mode_brightness_low
-search: false
+search:
+    keywords: ['personal_settings','lcd_night_mode_brightness_low']
 ---
 
 # personal_settings/lcd_night_mode_brightness_low
@@ -35,6 +36,6 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc450HD | ;UC_3.0.4.111.77 | personal_settings/lcd_night_mode_brightness_low=5 
+| 450HD | ;UC_3.0.4.111.77 | personal_settings/lcd_night_mode_brightness_low=5 
 
 (view disclaimer)[disclaimer]

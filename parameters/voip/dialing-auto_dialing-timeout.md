@@ -1,6 +1,7 @@
 ﻿---
 description: voip/dialing/auto_dialing/timeout
-search: false
+search:
+    keywords: ['voip','dialing','auto_dialing','timeout']
 ---
 
 # voip/dialing/auto_dialing/timeout
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | voip/dialing/auto_dialing/timeout=15 
-| audc440HD | ;UC_3.0.1.322 | voip/dialing/auto_dialing/timeout=15 
-| audc450HD | ;UC_3.0.4.111.77 | voip/dialing/auto_dialing/timeout=15 
+| 405HD | ;UC_3.0.1.322 | voip/dialing/auto_dialing/timeout=15 
+| 440HD | ;UC_3.0.1.322 | voip/dialing/auto_dialing/timeout=15 
+| 450HD | ;UC_3.0.4.111.77 | voip/dialing/auto_dialing/timeout=15 
 
 (view disclaimer)[disclaimer]

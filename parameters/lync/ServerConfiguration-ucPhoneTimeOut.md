@@ -1,6 +1,7 @@
 ﻿---
 description: lync/ServerConfiguration/ucPhoneTimeOut
-search: false
+search:
+    keywords: ['lync','ServerConfiguration','ucPhoneTimeOut']
 ---
 
 # lync/ServerConfiguration/ucPhoneTimeOut
@@ -35,7 +36,7 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | lync/ServerConfiguration/ucPhoneTimeOut=10 
-| audc440HD | ;UC_3.0.1.322 | lync/ServerConfiguration/ucPhoneTimeOut=10 
+| 405HD | ;UC_3.0.1.322 | lync/ServerConfiguration/ucPhoneTimeOut=10 
+| 440HD | ;UC_3.0.1.322 | lync/ServerConfiguration/ucPhoneTimeOut=10 
 
 (view disclaimer)[disclaimer]

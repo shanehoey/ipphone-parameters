@@ -1,6 +1,7 @@
 ﻿---
 description: lync/conference/enable_ssrtp
-search: false
+search:
+    keywords: ['lync','conference','enable_ssrtp']
 ---
 
 # lync/conference/enable_ssrtp
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | lync/conference/enable_ssrtp=0 
-| audc440HD | ;UC_3.0.1.322 | lync/conference/enable_ssrtp=0 
-| audc450HD | ;UC_3.0.4.111.77 | lync/conference/enable_ssrtp=0 
+| 405HD | ;UC_3.0.1.322 | lync/conference/enable_ssrtp=0 
+| 440HD | ;UC_3.0.1.322 | lync/conference/enable_ssrtp=0 
+| 450HD | ;UC_3.0.4.111.77 | lync/conference/enable_ssrtp=0 
 
 (view disclaimer)[disclaimer]

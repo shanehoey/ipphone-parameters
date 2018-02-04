@@ -1,6 +1,7 @@
 ﻿---
 description: voip/audio/gain/automatic_gain_control/WB/handset_direction
-search: false
+search:
+    keywords: ['voip','audio','gain','automatic_gain_control','WB','handset_direction']
 ---
 
 # voip/audio/gain/automatic_gain_control/WB/handset_direction
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | voip/audio/gain/automatic_gain_control/WB/handset_direction=CTL_REMOTE 
-| audc440HD | ;UC_3.0.1.322 | voip/audio/gain/automatic_gain_control/WB/handset_direction=CTL_REMOTE 
-| audc450HD | ;UC_3.0.4.111.77 | voip/audio/gain/automatic_gain_control/WB/handset_direction=CTL_REMOTE 
+| 405HD | ;UC_3.0.1.322 | voip/audio/gain/automatic_gain_control/WB/handset_direction=CTL_REMOTE 
+| 440HD | ;UC_3.0.1.322 | voip/audio/gain/automatic_gain_control/WB/handset_direction=CTL_REMOTE 
+| 450HD | ;UC_3.0.4.111.77 | voip/audio/gain/automatic_gain_control/WB/handset_direction=CTL_REMOTE 
 
 (view disclaimer)[disclaimer]

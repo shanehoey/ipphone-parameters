@@ -1,6 +1,7 @@
 ﻿---
 description: system/syslog/mode
-search: false
+search:
+    keywords: ['system','syslog','mode']
 ---
 
 # system/syslog/mode
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | system/syslog/mode=DISABLE 
-| audc440HD | ;UC_3.0.1.322 | system/syslog/mode=DISABLE 
-| audc450HD | ;UC_3.0.4.111.77 | system/syslog/mode=LOCAL 
+| 405HD | ;UC_3.0.1.322 | system/syslog/mode=DISABLE 
+| 440HD | ;UC_3.0.1.322 | system/syslog/mode=DISABLE 
+| 450HD | ;UC_3.0.4.111.77 | system/syslog/mode=LOCAL 
 
 (view disclaimer)[disclaimer]

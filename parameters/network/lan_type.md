@@ -1,6 +1,7 @@
 ﻿---
 description: network/lan_type
-search: false
+search:
+    keywords: ['network','lan_type']
 ---
 
 # network/lan_type
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | network/lan_type=DHCP 
-| audc440HD | ;UC_3.0.1.322 | network/lan_type=DHCP 
-| audc450HD | ;UC_3.0.4.111.77 | network/lan_type=DHCP 
+| 405HD | ;UC_3.0.1.322 | network/lan_type=DHCP 
+| 440HD | ;UC_3.0.1.322 | network/lan_type=DHCP 
+| 450HD | ;UC_3.0.4.111.77 | network/lan_type=DHCP 
 
 (view disclaimer)[disclaimer]

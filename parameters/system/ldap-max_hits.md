@@ -1,6 +1,7 @@
 ﻿---
 description: system/ldap/max_hits
-search: false
+search:
+    keywords: ['system','ldap','max_hits']
 ---
 
 # system/ldap/max_hits
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | system/ldap/max_hits=50 
-| audc440HD | ;UC_3.0.1.322 | system/ldap/max_hits=50 
-| audc450HD | ;UC_3.0.4.111.77 | system/ldap/max_hits=50 
+| 405HD | ;UC_3.0.1.322 | system/ldap/max_hits=50 
+| 440HD | ;UC_3.0.1.322 | system/ldap/max_hits=50 
+| 450HD | ;UC_3.0.4.111.77 | system/ldap/max_hits=50 
 
 (view disclaimer)[disclaimer]

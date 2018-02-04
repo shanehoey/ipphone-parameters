@@ -1,6 +1,7 @@
 ﻿---
 description: voip/services/conference/mode
-search: false
+search:
+    keywords: ['voip','services','conference','mode']
 ---
 
 # voip/services/conference/mode
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | voip/services/conference/mode=LOCAL 
-| audc440HD | ;UC_3.0.1.322 | voip/services/conference/mode=LOCAL 
-| audc450HD | ;UC_3.0.4.111.77 | voip/services/conference/mode=LOCAL 
+| 405HD | ;UC_3.0.1.322 | voip/services/conference/mode=LOCAL 
+| 440HD | ;UC_3.0.1.322 | voip/services/conference/mode=LOCAL 
+| 450HD | ;UC_3.0.4.111.77 | voip/services/conference/mode=LOCAL 
 
 (view disclaimer)[disclaimer]

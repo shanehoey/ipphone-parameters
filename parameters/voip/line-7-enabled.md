@@ -1,6 +1,7 @@
 ﻿---
 description: voip/line/7/enabled
-search: false
+search:
+    keywords: ['voip','line','7','enabled']
 ---
 
 # voip/line/7/enabled
@@ -35,6 +36,6 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc450HD | ;UC_3.0.4.111.77 | voip/line/7/enabled=0 
+| 450HD | ;UC_3.0.4.111.77 | voip/line/7/enabled=0 
 
 (view disclaimer)[disclaimer]

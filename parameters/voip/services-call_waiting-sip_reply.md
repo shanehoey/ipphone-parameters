@@ -1,6 +1,7 @@
 ﻿---
 description: voip/services/call_waiting/sip_reply
-search: false
+search:
+    keywords: ['voip','services','call_waiting','sip_reply']
 ---
 
 # voip/services/call_waiting/sip_reply
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | voip/services/call_waiting/sip_reply=QUEUED 
-| audc440HD | ;UC_3.0.1.322 | voip/services/call_waiting/sip_reply=QUEUED 
-| audc450HD | ;UC_3.0.4.111.77 | voip/services/call_waiting/sip_reply=QUEUED 
+| 405HD | ;UC_3.0.1.322 | voip/services/call_waiting/sip_reply=QUEUED 
+| 440HD | ;UC_3.0.1.322 | voip/services/call_waiting/sip_reply=QUEUED 
+| 450HD | ;UC_3.0.4.111.77 | voip/services/call_waiting/sip_reply=QUEUED 
 
 (view disclaimer)[disclaimer]

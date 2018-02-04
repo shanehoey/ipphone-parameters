@@ -1,6 +1,7 @@
 ﻿---
 description: personal_settings/language
-search: false
+search:
+    keywords: ['personal_settings','language']
 ---
 
 # personal_settings/language
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | personal_settings/language=ENGLISH 
-| audc440HD | ;UC_3.0.1.322 | personal_settings/language=ENGLISH 
-| audc450HD | ;UC_3.0.4.111.77 | personal_settings/language=ENGLISH 
+| 405HD | ;UC_3.0.1.322 | personal_settings/language=ENGLISH 
+| 440HD | ;UC_3.0.1.322 | personal_settings/language=ENGLISH 
+| 450HD | ;UC_3.0.4.111.77 | personal_settings/language=ENGLISH 
 
 (view disclaimer)[disclaimer]

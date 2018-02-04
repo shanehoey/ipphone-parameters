@@ -1,6 +1,7 @@
 ﻿---
 description: system/lldpd/fast_start_count
-search: false
+search:
+    keywords: ['system','lldpd','fast_start_count']
 ---
 
 # system/lldpd/fast_start_count
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | system/lldpd/fast_start_count=5 
-| audc440HD | ;UC_3.0.1.322 | system/lldpd/fast_start_count=5 
-| audc450HD | ;UC_3.0.4.111.77 | system/lldpd/fast_start_count=5 
+| 405HD | ;UC_3.0.1.322 | system/lldpd/fast_start_count=5 
+| 440HD | ;UC_3.0.1.322 | system/lldpd/fast_start_count=5 
+| 450HD | ;UC_3.0.4.111.77 | system/lldpd/fast_start_count=5 
 
 (view disclaimer)[disclaimer]

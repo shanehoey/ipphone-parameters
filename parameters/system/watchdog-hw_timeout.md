@@ -1,6 +1,7 @@
 ﻿---
 description: system/watchdog/hw_timeout
-search: false
+search:
+    keywords: ['system','watchdog','hw_timeout']
 ---
 
 # system/watchdog/hw_timeout
@@ -35,6 +36,6 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc450HD | ;UC_3.0.4.111.77 | system/watchdog/hw_timeout=57 
+| 450HD | ;UC_3.0.4.111.77 | system/watchdog/hw_timeout=57 
 
 (view disclaimer)[disclaimer]

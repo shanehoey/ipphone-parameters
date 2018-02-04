@@ -1,6 +1,7 @@
 ﻿---
 description: voip/common_area/enhanced_mode
-search: false
+search:
+    keywords: ['voip','common_area','enhanced_mode']
 ---
 
 # voip/common_area/enhanced_mode
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | voip/common_area/enhanced_mode=0 
-| audc440HD | ;UC_3.0.1.322 | voip/common_area/enhanced_mode=0 
-| audc450HD | ;UC_3.0.4.111.77 | voip/common_area/enhanced_mode=1 
+| 405HD | ;UC_3.0.1.322 | voip/common_area/enhanced_mode=0 
+| 440HD | ;UC_3.0.1.322 | voip/common_area/enhanced_mode=0 
+| 450HD | ;UC_3.0.4.111.77 | voip/common_area/enhanced_mode=1 
 
 (view disclaimer)[disclaimer]

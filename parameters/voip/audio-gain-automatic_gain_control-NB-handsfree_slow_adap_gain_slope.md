@@ -1,6 +1,7 @@
 ﻿---
 description: voip/audio/gain/automatic_gain_control/NB/handsfree_slow_adap_gain_slope
-search: false
+search:
+    keywords: ['voip','audio','gain','automatic_gain_control','NB','handsfree_slow_adap_gain_slope']
 ---
 
 # voip/audio/gain/automatic_gain_control/NB/handsfree_slow_adap_gain_slope
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | voip/audio/gain/automatic_gain_control/NB/handsfree_slow_adap_gain_slope=1_00 
-| audc440HD | ;UC_3.0.1.322 | voip/audio/gain/automatic_gain_control/NB/handsfree_slow_adap_gain_slope=1_00 
-| audc450HD | ;UC_3.0.4.111.77 | voip/audio/gain/automatic_gain_control/NB/handsfree_slow_adap_gain_slope=1_00 
+| 405HD | ;UC_3.0.1.322 | voip/audio/gain/automatic_gain_control/NB/handsfree_slow_adap_gain_slope=1_00 
+| 440HD | ;UC_3.0.1.322 | voip/audio/gain/automatic_gain_control/NB/handsfree_slow_adap_gain_slope=1_00 
+| 450HD | ;UC_3.0.4.111.77 | voip/audio/gain/automatic_gain_control/NB/handsfree_slow_adap_gain_slope=1_00 
 
 (view disclaimer)[disclaimer]

@@ -1,6 +1,7 @@
 ﻿---
 description: lync/contact_name_priority
-search: false
+search:
+    keywords: ['lync','contact_name_priority']
 ---
 
 # lync/contact_name_priority
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | lync/contact_name_priority=CONTACT_SEARCH 
-| audc440HD | ;UC_3.0.1.322 | lync/contact_name_priority=CONTACT_SEARCH 
-| audc450HD | ;UC_3.0.4.111.77 | lync/contact_name_priority=CONTACT_SEARCH 
+| 405HD | ;UC_3.0.1.322 | lync/contact_name_priority=CONTACT_SEARCH 
+| 440HD | ;UC_3.0.1.322 | lync/contact_name_priority=CONTACT_SEARCH 
+| 450HD | ;UC_3.0.4.111.77 | lync/contact_name_priority=CONTACT_SEARCH 
 
 (view disclaimer)[disclaimer]

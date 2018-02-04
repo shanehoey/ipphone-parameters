@@ -1,6 +1,7 @@
 ﻿---
 description: lync/credentials/username
-search: false
+search:
+    keywords: ['lync','credentials','username']
 ---
 
 # lync/credentials/username
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | lync/credentials/username= 
-| audc440HD | ;UC_3.0.1.322 | lync/credentials/username= 
-| audc450HD | ;UC_3.0.4.111.77 | lync/credentials/username= 
+| 405HD | ;UC_3.0.1.322 | lync/credentials/username= 
+| 440HD | ;UC_3.0.1.322 | lync/credentials/username= 
+| 450HD | ;UC_3.0.4.111.77 | lync/credentials/username= 
 
 (view disclaimer)[disclaimer]

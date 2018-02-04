@@ -1,6 +1,7 @@
 ﻿---
 description: voip/services/pause_dialing/digit_duration
-search: false
+search:
+    keywords: ['voip','services','pause_dialing','digit_duration']
 ---
 
 # voip/services/pause_dialing/digit_duration
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | voip/services/pause_dialing/digit_duration=100 
-| audc440HD | ;UC_3.0.1.322 | voip/services/pause_dialing/digit_duration=100 
-| audc450HD | ;UC_3.0.4.111.77 | voip/services/pause_dialing/digit_duration=100 
+| 405HD | ;UC_3.0.1.322 | voip/services/pause_dialing/digit_duration=100 
+| 440HD | ;UC_3.0.1.322 | voip/services/pause_dialing/digit_duration=100 
+| 450HD | ;UC_3.0.4.111.77 | voip/services/pause_dialing/digit_duration=100 
 
 (view disclaimer)[disclaimer]

@@ -1,6 +1,7 @@
 ﻿---
 description: voip/audio/gain/WB/headset_digital_output_gain
-search: false
+search:
+    keywords: ['voip','audio','gain','WB','headset_digital_output_gain']
 ---
 
 # voip/audio/gain/WB/headset_digital_output_gain
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | voip/audio/gain/WB/headset_digital_output_gain=-4 
-| audc440HD | ;UC_3.0.1.322 | voip/audio/gain/WB/headset_digital_output_gain=-4 
-| audc450HD | ;UC_3.0.4.111.77 | voip/audio/gain/WB/headset_digital_output_gain=-4 
+| 405HD | ;UC_3.0.1.322 | voip/audio/gain/WB/headset_digital_output_gain=-4 
+| 440HD | ;UC_3.0.1.322 | voip/audio/gain/WB/headset_digital_output_gain=-4 
+| 450HD | ;UC_3.0.4.111.77 | voip/audio/gain/WB/headset_digital_output_gain=-4 
 
 (view disclaimer)[disclaimer]

@@ -1,6 +1,7 @@
 ﻿---
 description: lync/inband/ServerConfiguration/ucPhoneTimeOut
-search: false
+search:
+    keywords: ['lync','inband','ServerConfiguration','ucPhoneTimeOut']
 ---
 
 # lync/inband/ServerConfiguration/ucPhoneTimeOut
@@ -35,6 +36,6 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc450HD | ;UC_3.0.4.111.77 | lync/inband/ServerConfiguration/ucPhoneTimeOut=10 
+| 450HD | ;UC_3.0.4.111.77 | lync/inband/ServerConfiguration/ucPhoneTimeOut=10 
 
 (view disclaimer)[disclaimer]

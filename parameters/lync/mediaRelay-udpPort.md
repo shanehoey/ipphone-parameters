@@ -1,6 +1,7 @@
 ﻿---
 description: lync/mediaRelay/udpPort
-search: false
+search:
+    keywords: ['lync','mediaRelay','udpPort']
 ---
 
 # lync/mediaRelay/udpPort
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | lync/mediaRelay/udpPort=3478 
-| audc440HD | ;UC_3.0.1.322 | lync/mediaRelay/udpPort=3478 
-| audc450HD | ;UC_3.0.4.111.77 | lync/mediaRelay/udpPort=3478 
+| 405HD | ;UC_3.0.1.322 | lync/mediaRelay/udpPort=3478 
+| 440HD | ;UC_3.0.1.322 | lync/mediaRelay/udpPort=3478 
+| 450HD | ;UC_3.0.4.111.77 | lync/mediaRelay/udpPort=3478 
 
 (view disclaimer)[disclaimer]

@@ -1,6 +1,7 @@
 ﻿---
 description: conferencePhone/FW_path_prefix
-search: false
+search:
+    keywords: ['conferencePhone','FW_path_prefix']
 ---
 
 # conferencePhone/FW_path_prefix
@@ -35,6 +36,6 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc450HD | ;UC_3.0.4.111.77 | conferencePhone/FW_path_prefix= 
+| 450HD | ;UC_3.0.4.111.77 | conferencePhone/FW_path_prefix= 
 
 (view disclaimer)[disclaimer]

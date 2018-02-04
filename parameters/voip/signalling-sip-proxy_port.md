@@ -1,6 +1,7 @@
 ﻿---
 description: voip/signalling/sip/proxy_port
-search: false
+search:
+    keywords: ['voip','signalling','sip','proxy_port']
 ---
 
 # voip/signalling/sip/proxy_port
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | voip/signalling/sip/proxy_port=5061 
-| audc440HD | ;UC_3.0.1.322 | voip/signalling/sip/proxy_port=5061 
-| audc450HD | ;UC_3.0.4.111.77 | voip/signalling/sip/proxy_port=5061 
+| 405HD | ;UC_3.0.1.322 | voip/signalling/sip/proxy_port=5061 
+| 440HD | ;UC_3.0.1.322 | voip/signalling/sip/proxy_port=5061 
+| 450HD | ;UC_3.0.4.111.77 | voip/signalling/sip/proxy_port=5061 
 
 (view disclaimer)[disclaimer]

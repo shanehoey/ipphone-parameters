@@ -1,6 +1,7 @@
 ﻿---
 description: system/feature_key_synchronization/status/1/fks_status
-search: false
+search:
+    keywords: ['system','feature_key_synchronization','status','1','fks_status']
 ---
 
 # system/feature_key_synchronization/status/1/fks_status
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | system/feature_key_synchronization/status/1/fks_status=FKS_NONE 
-| audc440HD | ;UC_3.0.1.322 | system/feature_key_synchronization/status/1/fks_status=FKS_NONE 
-| audc450HD | ;UC_3.0.4.111.77 | system/feature_key_synchronization/status/1/fks_status=FKS_NONE 
+| 405HD | ;UC_3.0.1.322 | system/feature_key_synchronization/status/1/fks_status=FKS_NONE 
+| 440HD | ;UC_3.0.1.322 | system/feature_key_synchronization/status/1/fks_status=FKS_NONE 
+| 450HD | ;UC_3.0.4.111.77 | system/feature_key_synchronization/status/1/fks_status=FKS_NONE 
 
 (view disclaimer)[disclaimer]

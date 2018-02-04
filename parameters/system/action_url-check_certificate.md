@@ -1,6 +1,7 @@
 ﻿---
 description: system/action_url/check_certificate
-search: false
+search:
+    keywords: ['system','action_url','check_certificate']
 ---
 
 # system/action_url/check_certificate
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | system/action_url/check_certificate=1 
-| audc440HD | ;UC_3.0.1.322 | system/action_url/check_certificate=1 
-| audc450HD | ;UC_3.0.4.111.77 | system/action_url/check_certificate=1 
+| 405HD | ;UC_3.0.1.322 | system/action_url/check_certificate=1 
+| 440HD | ;UC_3.0.1.322 | system/action_url/check_certificate=1 
+| 450HD | ;UC_3.0.4.111.77 | system/action_url/check_certificate=1 
 
 (view disclaimer)[disclaimer]

@@ -1,6 +1,7 @@
 ﻿---
 description: voip/services/group_paging/group/18/name
-search: false
+search:
+    keywords: ['voip','services','group_paging','group','18','name']
 ---
 
 # voip/services/group_paging/group/18/name
@@ -35,6 +36,6 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc450HD | ;UC_3.0.4.111.77 | voip/services/group_paging/group/18/name= 
+| 450HD | ;UC_3.0.4.111.77 | voip/services/group_paging/group/18/name= 
 
 (view disclaimer)[disclaimer]

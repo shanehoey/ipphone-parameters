@@ -1,6 +1,7 @@
 ﻿---
 description: system/activation_keys/tr069
-search: false
+search:
+    keywords: ['system','activation_keys','tr069']
 ---
 
 # system/activation_keys/tr069
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | system/activation_keys/tr069= 
-| audc440HD | ;UC_3.0.1.322 | system/activation_keys/tr069= 
-| audc450HD | ;UC_3.0.4.111.77 | system/activation_keys/tr069= 
+| 405HD | ;UC_3.0.1.322 | system/activation_keys/tr069= 
+| 440HD | ;UC_3.0.1.322 | system/activation_keys/tr069= 
+| 450HD | ;UC_3.0.4.111.77 | system/activation_keys/tr069= 
 
 (view disclaimer)[disclaimer]

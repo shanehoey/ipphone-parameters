@@ -1,6 +1,7 @@
 ﻿---
 description: network/lan/vlan/period
-search: false
+search:
+    keywords: ['network','lan','vlan','period']
 ---
 
 # network/lan/vlan/period
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | network/lan/vlan/period=30 
-| audc440HD | ;UC_3.0.1.322 | network/lan/vlan/period=30 
-| audc450HD | ;UC_3.0.4.111.77 | network/lan/vlan/period=30 
+| 405HD | ;UC_3.0.1.322 | network/lan/vlan/period=30 
+| 440HD | ;UC_3.0.1.322 | network/lan/vlan/period=30 
+| 450HD | ;UC_3.0.4.111.77 | network/lan/vlan/period=30 
 
 (view disclaimer)[disclaimer]

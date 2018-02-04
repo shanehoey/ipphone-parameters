@@ -1,6 +1,7 @@
 ﻿---
 description: voip/regional_settings/call_progress_tones/2/tone_on_2
-search: false
+search:
+    keywords: ['voip','regional_settings','call_progress_tones','2','tone_on_2']
 ---
 
 # voip/regional_settings/call_progress_tones/2/tone_on_2
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | voip/regional_settings/call_progress_tones/2/tone_on_2=0 
-| audc440HD | ;UC_3.0.1.322 | voip/regional_settings/call_progress_tones/2/tone_on_2=0 
-| audc450HD | ;UC_3.0.4.111.77 | voip/regional_settings/call_progress_tones/2/tone_on_2=0 
+| 405HD | ;UC_3.0.1.322 | voip/regional_settings/call_progress_tones/2/tone_on_2=0 
+| 440HD | ;UC_3.0.1.322 | voip/regional_settings/call_progress_tones/2/tone_on_2=0 
+| 450HD | ;UC_3.0.4.111.77 | voip/regional_settings/call_progress_tones/2/tone_on_2=0 
 
 (view disclaimer)[disclaimer]

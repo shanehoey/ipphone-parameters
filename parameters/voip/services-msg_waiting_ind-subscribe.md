@@ -1,6 +1,7 @@
 ﻿---
 description: voip/services/msg_waiting_ind/subscribe
-search: false
+search:
+    keywords: ['voip','services','msg_waiting_ind','subscribe']
 ---
 
 # voip/services/msg_waiting_ind/subscribe
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | voip/services/msg_waiting_ind/subscribe=0 
-| audc440HD | ;UC_3.0.1.322 | voip/services/msg_waiting_ind/subscribe=0 
-| audc450HD | ;UC_3.0.4.111.77 | voip/services/msg_waiting_ind/subscribe=0 
+| 405HD | ;UC_3.0.1.322 | voip/services/msg_waiting_ind/subscribe=0 
+| 440HD | ;UC_3.0.1.322 | voip/services/msg_waiting_ind/subscribe=0 
+| 450HD | ;UC_3.0.4.111.77 | voip/services/msg_waiting_ind/subscribe=0 
 
 (view disclaimer)[disclaimer]

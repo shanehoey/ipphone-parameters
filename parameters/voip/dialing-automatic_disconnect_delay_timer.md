@@ -1,6 +1,7 @@
 ﻿---
 description: voip/dialing/automatic_disconnect_delay_timer
-search: false
+search:
+    keywords: ['voip','dialing','automatic_disconnect_delay_timer']
 ---
 
 # voip/dialing/automatic_disconnect_delay_timer
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | voip/dialing/automatic_disconnect_delay_timer=3000 
-| audc440HD | ;UC_3.0.1.322 | voip/dialing/automatic_disconnect_delay_timer=3000 
-| audc450HD | ;UC_3.0.4.111.77 | voip/dialing/automatic_disconnect_delay_timer=3000 
+| 405HD | ;UC_3.0.1.322 | voip/dialing/automatic_disconnect_delay_timer=3000 
+| 440HD | ;UC_3.0.1.322 | voip/dialing/automatic_disconnect_delay_timer=3000 
+| 450HD | ;UC_3.0.4.111.77 | voip/dialing/automatic_disconnect_delay_timer=3000 
 
 (view disclaimer)[disclaimer]

@@ -1,6 +1,7 @@
 ﻿---
 description: status/lync/user_migration_timestamp
-search: false
+search:
+    keywords: ['status','lync','user_migration_timestamp']
 ---
 
 # status/lync/user_migration_timestamp
@@ -35,6 +36,6 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc450HD | ;UC_3.0.4.111.77 | status/lync/user_migration_timestamp=0 
+| 450HD | ;UC_3.0.4.111.77 | status/lync/user_migration_timestamp=0 
 
 (view disclaimer)[disclaimer]

@@ -1,6 +1,7 @@
 ﻿---
 description: voip/services/pause_dialing/digit_gap
-search: false
+search:
+    keywords: ['voip','services','pause_dialing','digit_gap']
 ---
 
 # voip/services/pause_dialing/digit_gap
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | voip/services/pause_dialing/digit_gap=300 
-| audc440HD | ;UC_3.0.1.322 | voip/services/pause_dialing/digit_gap=300 
-| audc450HD | ;UC_3.0.4.111.77 | voip/services/pause_dialing/digit_gap=300 
+| 405HD | ;UC_3.0.1.322 | voip/services/pause_dialing/digit_gap=300 
+| 440HD | ;UC_3.0.1.322 | voip/services/pause_dialing/digit_gap=300 
+| 450HD | ;UC_3.0.4.111.77 | voip/services/pause_dialing/digit_gap=300 
 
 (view disclaimer)[disclaimer]

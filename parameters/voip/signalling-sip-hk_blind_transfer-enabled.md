@@ -1,6 +1,7 @@
 ﻿---
 description: voip/signalling/sip/hk_blind_transfer/enabled
-search: false
+search:
+    keywords: ['voip','signalling','sip','hk_blind_transfer','enabled']
 ---
 
 # voip/signalling/sip/hk_blind_transfer/enabled
@@ -35,6 +36,6 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc450HD | ;UC_3.0.4.111.77 | voip/signalling/sip/hk_blind_transfer/enabled=1 
+| 450HD | ;UC_3.0.4.111.77 | voip/signalling/sip/hk_blind_transfer/enabled=1 
 
 (view disclaimer)[disclaimer]

@@ -1,6 +1,7 @@
 ﻿---
 description: provisioning/corporate_directory_uri
-search: false
+search:
+    keywords: ['provisioning','corporate_directory_uri']
 ---
 
 # provisioning/corporate_directory_uri
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | provisioning/corporate_directory_uri= 
-| audc440HD | ;UC_3.0.1.322 | provisioning/corporate_directory_uri= 
-| audc450HD | ;UC_3.0.4.111.77 | provisioning/corporate_directory_uri= 
+| 405HD | ;UC_3.0.1.322 | provisioning/corporate_directory_uri= 
+| 440HD | ;UC_3.0.1.322 | provisioning/corporate_directory_uri= 
+| 450HD | ;UC_3.0.4.111.77 | provisioning/corporate_directory_uri= 
 
 (view disclaimer)[disclaimer]

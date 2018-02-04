@@ -1,6 +1,7 @@
 ﻿---
 description: voip/voice_quality/mode
-search: false
+search:
+    keywords: ['voip','voice_quality','mode']
 ---
 
 # voip/voice_quality/mode
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | voip/voice_quality/mode=DISABLE 
-| audc440HD | ;UC_3.0.1.322 | voip/voice_quality/mode=DISABLE 
-| audc450HD | ;UC_3.0.4.111.77 | voip/voice_quality/mode=DISABLE 
+| 405HD | ;UC_3.0.1.322 | voip/voice_quality/mode=DISABLE 
+| 440HD | ;UC_3.0.1.322 | voip/voice_quality/mode=DISABLE 
+| 450HD | ;UC_3.0.4.111.77 | voip/voice_quality/mode=DISABLE 
 
 (view disclaimer)[disclaimer]

@@ -1,6 +1,7 @@
 ﻿---
 description: lync/sign_in/phone
-search: false
+search:
+    keywords: ['lync','sign_in','phone']
 ---
 
 # lync/sign_in/phone
@@ -35,8 +36,8 @@ This parameter is available on the following devices
 
 | Device | Latest Firmware | Default Value |
 |:---|:---|:---|
-| audc405HD | ;UC_3.0.1.322 | lync/sign_in/phone= 
-| audc440HD | ;UC_3.0.1.322 | lync/sign_in/phone= 
-| audc450HD | ;UC_3.0.4.111.77 | lync/sign_in/phone= 
+| 405HD | ;UC_3.0.1.322 | lync/sign_in/phone= 
+| 440HD | ;UC_3.0.1.322 | lync/sign_in/phone= 
+| 450HD | ;UC_3.0.4.111.77 | lync/sign_in/phone= 
 
 (view disclaimer)[disclaimer]

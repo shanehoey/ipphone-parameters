@@ -8,10 +8,13 @@ search: false
 #### system/ntp/sync_time/days
 
 
-| This Parameter has not been documented yet, please refer to the audiocodes site to determin usage.  | 
+| This Parameter has not been documented yet, please refer to the audiocodes site for usage.  |
 | :--- |
 
 ## Syntax
+| Parameter | Syntax |
+| :--- | :--- |
+|system/ntp/sync_time/days | {% raw %} undefined {% endraw %} |
 
 ## Parameters
 |Device|Parameter|value|Description|

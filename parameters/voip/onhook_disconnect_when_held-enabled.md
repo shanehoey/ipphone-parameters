@@ -8,10 +8,13 @@ search: false
 #### voip/onhook_disconnect_when_held/enabled
 
 
-| This Parameter has not been documented yet, please refer to the audiocodes site to determin usage.  | 
+| This Parameter has not been documented yet, please refer to the audiocodes site for usage.  |
 | :--- |
 
 ## Syntax
+| Parameter | Syntax |
+| :--- | :--- |
+|voip/onhook_disconnect_when_held/enabled | {% raw %} undefined {% endraw %} |
 
 ## Parameters
 |Device|Parameter|value|Description|

@@ -8,10 +8,13 @@ search: false
 #### voip/codec/codec_info/0/enabled
 
 
-| This Parameter has not been documented yet, please refer to the audiocodes site to determin usage.  | 
+| This Parameter has not been documented yet, please refer to the audiocodes site for usage.  |
 | :--- |
 
 ## Syntax
+| Parameter | Syntax |
+| :--- | :--- |
+|voip/codec/codec_info/0/enabled | {% raw %} undefined {% endraw %} |
 
 ## Parameters
 |Device|Parameter|value|Description|

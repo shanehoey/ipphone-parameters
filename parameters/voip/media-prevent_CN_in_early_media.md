@@ -8,10 +8,13 @@ search: false
 #### voip/media/prevent_CN_in_early_media
 
 
-| This Parameter has not been documented yet, please refer to the audiocodes site to determin usage.  | 
+| This Parameter has not been documented yet, please refer to the audiocodes site for usage.  |
 | :--- |
 
 ## Syntax
+| Parameter | Syntax |
+| :--- | :--- |
+|voip/media/prevent_CN_in_early_media | {% raw %} undefined {% endraw %} |
 
 ## Parameters
 |Device|Parameter|value|Description|

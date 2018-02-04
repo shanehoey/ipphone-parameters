@@ -8,10 +8,13 @@ search: false
 #### voip/dialing/on_hook_dialing
 
 
-| This Parameter has not been documented yet, please refer to the audiocodes site to determin usage.  | 
+| This Parameter has not been documented yet, please refer to the audiocodes site for usage.  |
 | :--- |
 
 ## Syntax
+| Parameter | Syntax |
+| :--- | :--- |
+|voip/dialing/on_hook_dialing | {% raw %} undefined {% endraw %} |
 
 ## Parameters
 |Device|Parameter|value|Description|

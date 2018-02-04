@@ -8,10 +8,13 @@ search: false
 #### lync/ServerConfiguration/ucPhoneTimeOut
 
 
-| This Parameter has not been documented yet, please refer to the audiocodes site to determin usage.  | 
+| This Parameter has not been documented yet, please refer to the audiocodes site for usage.  |
 | :--- |
 
 ## Syntax
+| Parameter | Syntax |
+| :--- | :--- |
+|lync/ServerConfiguration/ucPhoneTimeOut | {% raw %} undefined {% endraw %} |
 
 ## Parameters
 |Device|Parameter|value|Description|

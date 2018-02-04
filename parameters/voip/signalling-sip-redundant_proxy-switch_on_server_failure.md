@@ -8,10 +8,13 @@ search: false
 #### voip/signalling/sip/redundant_proxy/switch_on_server_failure
 
 
-| This Parameter has not been documented yet, please refer to the audiocodes site to determin usage.  | 
+| This Parameter has not been documented yet, please refer to the audiocodes site for usage.  |
 | :--- |
 
 ## Syntax
+| Parameter | Syntax |
+| :--- | :--- |
+|voip/signalling/sip/redundant_proxy/switch_on_server_failure | {% raw %} undefined {% endraw %} |
 
 ## Parameters
 |Device|Parameter|value|Description|

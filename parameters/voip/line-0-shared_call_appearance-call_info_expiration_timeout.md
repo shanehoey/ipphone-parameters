@@ -8,10 +8,13 @@ search: false
 #### voip/line/0/shared_call_appearance/call_info_expiration_timeout
 
 
-| This Parameter has not been documented yet, please refer to the audiocodes site to determin usage.  | 
+| This Parameter has not been documented yet, please refer to the audiocodes site for usage.  |
 | :--- |
 
 ## Syntax
+| Parameter | Syntax |
+| :--- | :--- |
+|voip/line/0/shared_call_appearance/call_info_expiration_timeout | {% raw %} undefined {% endraw %} |
 
 ## Parameters
 |Device|Parameter|value|Description|

@@ -8,10 +8,13 @@ search: false
 #### voip/audio/gain/automatic_gain_control/WB/headset_slow_adap_gain_slope
 
 
-| This Parameter has not been documented yet, please refer to the audiocodes site to determin usage.  | 
+| This Parameter has not been documented yet, please refer to the audiocodes site for usage.  |
 | :--- |
 
 ## Syntax
+| Parameter | Syntax |
+| :--- | :--- |
+|voip/audio/gain/automatic_gain_control/WB/headset_slow_adap_gain_slope | {% raw %} undefined {% endraw %} |
 
 ## Parameters
 |Device|Parameter|value|Description|

@@ -8,10 +8,13 @@ search: false
 #### voip/regional_settings/call_progress_tones/2/tone_off_3
 
 
-| This Parameter has not been documented yet, please refer to the audiocodes site to determin usage.  | 
+| This Parameter has not been documented yet, please refer to the audiocodes site for usage.  |
 | :--- |
 
 ## Syntax
+| Parameter | Syntax |
+| :--- | :--- |
+|voip/regional_settings/call_progress_tones/2/tone_off_3 | {% raw %} undefined {% endraw %} |
 
 ## Parameters
 |Device|Parameter|value|Description|

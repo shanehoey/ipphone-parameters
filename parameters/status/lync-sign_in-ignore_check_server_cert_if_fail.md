@@ -8,10 +8,13 @@ search: false
 #### status/lync/sign_in/ignore_check_server_cert_if_fail
 
 
-| This Parameter has not been documented yet, please refer to the audiocodes site to determin usage.  | 
+| This Parameter has not been documented yet, please refer to the audiocodes site for usage.  |
 | :--- |
 
 ## Syntax
+| Parameter | Syntax |
+| :--- | :--- |
+|status/lync/sign_in/ignore_check_server_cert_if_fail | {% raw %} undefined {% endraw %} |
 
 ## Parameters
 |Device|Parameter|value|Description|

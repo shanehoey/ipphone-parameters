@@ -8,10 +8,13 @@ search: false
 #### voip/line/0/shared_call_appearance/waiting_to_line_seize_tone
 
 
-| This Parameter has not been documented yet, please refer to the audiocodes site to determin usage.  | 
+| This Parameter has not been documented yet, please refer to the audiocodes site for usage.  |
 | :--- |
 
 ## Syntax
+| Parameter | Syntax |
+| :--- | :--- |
+|voip/line/0/shared_call_appearance/waiting_to_line_seize_tone | {% raw %} undefined {% endraw %} |
 
 ## Parameters
 |Device|Parameter|value|Description|

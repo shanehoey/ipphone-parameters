@@ -8,10 +8,13 @@ search: false
 #### personal_settings/lcd_dimmer_mode_brightness_low
 
 
-| This Parameter has not been documented yet, please refer to the audiocodes site to determin usage.  | 
+| This Parameter has not been documented yet, please refer to the audiocodes site for usage.  |
 | :--- |
 
 ## Syntax
+| Parameter | Syntax |
+| :--- | :--- |
+|personal_settings/lcd_dimmer_mode_brightness_low | {% raw %} undefined {% endraw %} |
 
 ## Parameters
 |Device|Parameter|value|Description|

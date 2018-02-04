@@ -8,10 +8,13 @@ search: false
 #### voip/audio/gain/automatic_gain_control/fast_adap_duration
 
 
-| This Parameter has not been documented yet, please refer to the audiocodes site to determin usage.  | 
+| This Parameter has not been documented yet, please refer to the audiocodes site for usage.  |
 | :--- |
 
 ## Syntax
+| Parameter | Syntax |
+| :--- | :--- |
+|voip/audio/gain/automatic_gain_control/fast_adap_duration | {% raw %} undefined {% endraw %} |
 
 ## Parameters
 |Device|Parameter|value|Description|

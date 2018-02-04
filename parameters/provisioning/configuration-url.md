@@ -1,0 +1,39 @@
+﻿---
+description: provisioning/configuration/url
+search: false
+---
+
+# provisioning/configuration/url
+
+#### provisioning/configuration/url
+
+
+| This Parameter has not been documented yet, please refer to the audiocodes site to determin usage.  | 
+| :--- |
+
+## Syntax
+
+## Parameters
+|Device|Parameter|value|Description|
+|:---|:---|:---|:---|
+| 405HD | provisioning/configuration/url |  |  |
+
+## Examples
+#### provisioning/configuration/url
+
+provisioning/configuration/url
+
+```
+provisioning/configuration/url=
+```
+
+## Devices
+This parameter is available on the following devices
+
+| Device | Latest Firmware | Default Value |
+|:---|:---|:---|
+| audc405HD | ;UC_3.0.1.322 | provisioning/configuration/url= 
+| audc440HD | ;UC_3.0.1.322 | provisioning/configuration/url= 
+| audc450HD | ;UC_3.0.4.111.77 | provisioning/configuration/url= 
+
+(view disclaimer)[disclaimer]

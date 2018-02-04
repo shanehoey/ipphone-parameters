@@ -1,0 +1,39 @@
+﻿---
+description: system/ldap/ui/use_right_arrow_active_search
+search: false
+---
+
+# system/ldap/ui/use_right_arrow_active_search
+
+#### system/ldap/ui/use_right_arrow_active_search
+
+
+| This Parameter has not been documented yet, please refer to the audiocodes site to determin usage.  | 
+| :--- |
+
+## Syntax
+
+## Parameters
+|Device|Parameter|value|Description|
+|:---|:---|:---|:---|
+| 405HD | system/ldap/ui/use_right_arrow_active_search |  |  |
+
+## Examples
+#### system/ldap/ui/use_right_arrow_active_search
+
+system/ldap/ui/use_right_arrow_active_search
+
+```
+system/ldap/ui/use_right_arrow_active_search=0
+```
+
+## Devices
+This parameter is available on the following devices
+
+| Device | Latest Firmware | Default Value |
+|:---|:---|:---|
+| audc405HD | ;UC_3.0.1.322 | system/ldap/ui/use_right_arrow_active_search=0 
+| audc440HD | ;UC_3.0.1.322 | system/ldap/ui/use_right_arrow_active_search=0 
+| audc450HD | ;UC_3.0.4.111.77 | system/ldap/ui/use_right_arrow_active_search=0 
+
+(view disclaimer)[disclaimer]

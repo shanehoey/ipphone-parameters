@@ -1,0 +1,37 @@
+﻿---
+description: lync/sign_in/web/enabled
+search: false
+---
+
+# lync/sign_in/web/enabled
+
+#### lync/sign_in/web/enabled
+
+
+| This Parameter has not been documented yet, please refer to the audiocodes site to determin usage.  | 
+| :--- |
+
+## Syntax
+
+## Parameters
+|Device|Parameter|value|Description|
+|:---|:---|:---|:---|
+| 450HD | lync/sign_in/web/enabled |  |  |
+
+## Examples
+#### lync/sign_in/web/enabled
+
+lync/sign_in/web/enabled
+
+```
+lync/sign_in/web/enabled=1
+```
+
+## Devices
+This parameter is available on the following devices
+
+| Device | Latest Firmware | Default Value |
+|:---|:---|:---|
+| audc450HD | ;UC_3.0.4.111.77 | lync/sign_in/web/enabled=1 
+
+(view disclaimer)[disclaimer]
